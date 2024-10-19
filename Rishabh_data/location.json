@@ -1,0 +1,42 @@
+[
+    {
+        "city": "India, HQ",
+        "address": "Plot 66, Beside Sigil India, Padra Road, Atladra, Vadodara 390012, Gujarat, India.",
+        "phone": "+91 8511122697"
+    },
+    {
+        "city": "India, Ahmedabad",
+        "address": "DevX, 4th floor Binori B Square 3, Sindhu Bhavan Road, Sindhu Bhavan Road, Bodakdev, Ahmedabad 380054",
+        "phone": ""
+    },
+    {
+        "city": "India, Kochi",
+        "address": "Noel Focus 10th Floor, Seaport-Airport Road, Kakkanad, Kochi 682037",
+        "phone": ""
+    },
+    {
+        "city": "India, Pune",
+        "address": "Supreme Headquarters Premises Co-operative Society, Office No. 501 & 709, Pune Bangalore Highway, Baner, Pune 411045",
+        "phone": ""
+    },
+    {
+        "city": "India, Hyderabad",
+        "address": "215, Cyber Crown, Sec-II Village, HUDA Techno Enclave, Madhapur, Telangana 500081",
+        "phone": ""
+    },
+    {
+        "city": "India, Bengaluru",
+        "address": "Workafella Co-working #150/1, Infantry Road, Opp. to Commissioner Office, Vasanth Nagar, Bengaluru 560001, Karnataka.",
+        "phone": ""
+    },
+    {
+        "city": "US",
+        "address": "3016 Polar Lane, Building 2, Suite 205, Cedar Park, TX 78613",
+        "phone": "+1-201-484-7302"
+    },
+    {
+        "city": "UK",
+        "address": "4th floor, Scottish Provident House, 76 \u2013 80 College Road, Harrow, HA1 1BQ, U.K.",
+        "phone": "+44 207 031 8422"
+    }
+]

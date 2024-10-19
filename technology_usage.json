@@ -1,0 +1,650 @@
+{
+    "Technology Usage in Case Studies": {
+        "C#": [
+            "Clinical Trial Management System Development",
+            "ELD Fleet Management Mobile App Development",
+            "Web-based E-Learning Platform Modernization"
+        ],
+        ".NET MVC": [
+            "Clinical Trial Management System Development"
+        ],
+        "SQL Server": [
+            "Clinical Trial Management System Development",
+            "Real-Time Inventory Management & Tracking System"
+        ],
+        "Hibernate": [
+            "Modernizing ERP for the Manufacturing Industry",
+            "eCommerce Platform Modernization",
+            "Ecommerce Solution Development & Maintenance Services",
+            "Multi-channel e-Commerce Management Solution"
+        ],
+        "Java 6": [
+            "Modernizing ERP for the Manufacturing Industry"
+        ],
+        "jQuery": [
+            "Modernizing ERP for the Manufacturing Industry"
+        ],
+        "JSP": [
+            "Modernizing ERP for the Manufacturing Industry"
+        ],
+        "MySQL": [
+            "Modernizing ERP for the Manufacturing Industry",
+            "Mobile Payment App Development",
+            "Online Event Ticket Reservation App",
+            "AR-based Product Visualization App Development",
+            "Field Sales Management Mobile App",
+            "Production Planning & Reporting Software Modernization"
+        ],
+        "Spring MVC": [
+            "Modernizing ERP for the Manufacturing Industry"
+        ],
+        "Java": [
+            "Loan Processing Mobile App Development",
+            "Mobile Payment App Development",
+            "Digital Ad Order Management System Modernization",
+            "Enterprise Content Management Software Modernization",
+            "Cloud-based Workplace Health and Safety Management Software",
+            "Veterinary Practice Management System",
+            "Ecommerce Solution Development & Maintenance Services",
+            "Multi-channel e-Commerce Management Solution"
+        ],
+        "Kotlin": [
+            "Loan Processing Mobile App Development",
+            "Mobile Payment App Development",
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "AWS": [
+            "Loan Processing Mobile App Development",
+            "Smart Clothing App Development for Health Monitoring",
+            "Virtual Fitting Room Software Development",
+            "Real-time Digital Ad Inventory Management Software Modernization",
+            "Anime Streaming App Development",
+            "CI/CD Automation & DevOps Implementation",
+            "Machine Learning Driven Healthcare Monitoring System",
+            "User-Friendly Homecare Provider Portal",
+            "Multi-channel e-Commerce Management Solution"
+        ],
+        "React Native": [
+            "Loan Processing Mobile App Development",
+            "Mobile Payment App Development",
+            "Online Event Ticket Reservation App",
+            "Appointment Scheduling App Modernization"
+        ],
+        "Node.js": [
+            "Loan Processing Mobile App Development",
+            "Anime Streaming App Development"
+        ],
+        "ExpressJS": [
+            "Loan Processing Mobile App Development",
+            "Virtual Fitting Room Software Development"
+        ],
+        "MongoDB": [
+            "Loan Processing Mobile App Development"
+        ],
+        "PostgreSQL": [
+            "Loan Processing Mobile App Development",
+            "Enterprise Content Management Software Modernization",
+            "Veterinary Practice Management System",
+            "Multi-channel e-Commerce Management Solution"
+        ],
+        "SpringBoot": [
+            "Mobile Payment App Development"
+        ],
+        "Azure Cloud Hosting": [
+            "ERP System Reengineering and MES Implementation"
+        ],
+        "Azure DevOps": [
+            "ERP System Reengineering and MES Implementation"
+        ],
+        "Power BI": [
+            "ERP System Reengineering and MES Implementation",
+            "Real-Time Inventory Management & Tracking System",
+            "Mobile Money Transfer App Development",
+            "Cloud-Based Data Warehouse System"
+        ],
+        "Angular": [
+            "ERP System Reengineering and MES Implementation",
+            "Gas Cylinder Distribution & Tracking System",
+            "Appointment Scheduling App Modernization",
+            "Web-based E-Learning Platform Modernization",
+            "eCommerce Platform Modernization",
+            "Anime Streaming App Development",
+            "Migration & Modernization of a Hotel Booking System",
+            "Multi-channel e-Commerce Management Solution"
+        ],
+        "NET": [
+            "ERP System Reengineering and MES Implementation"
+        ],
+        "Terraform": [
+            "ERP System Reengineering and MES Implementation"
+        ],
+        "Material Design": [
+            "ERP System Reengineering and MES Implementation"
+        ],
+        "Liquibase": [
+            "ERP System Reengineering and MES Implementation"
+        ],
+        "docker": [
+            "ERP System Reengineering and MES Implementation"
+        ],
+        "Python": [
+            "Smart Clothing App Development for Health Monitoring",
+            "Virtual Fitting Room Software Development",
+            "Mobile & Web Indoor Mapping & Navigation App Development",
+            "Machine Learning Driven Healthcare Monitoring System"
+        ],
+        "Casandra": [
+            "Smart Clothing App Development for Health Monitoring"
+        ],
+        "Kafka": [
+            "Smart Clothing App Development for Health Monitoring",
+            "Real-time Digital Ad Inventory Management Software Modernization",
+            "Digital Ad Order Management System Modernization",
+            "Digital Ad Order Management Solution with Data Analytics"
+        ],
+        "Docker": [
+            "Smart Clothing App Development for Health Monitoring",
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Kubernetes": [
+            "Smart Clothing App Development for Health Monitoring",
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Spring": [
+            "Smart Clothing App Development for Health Monitoring",
+            "Real-time Digital Ad Inventory Management Software Modernization",
+            "eCommerce Platform Modernization"
+        ],
+        "TensorFlow": [
+            "Smart Clothing App Development for Health Monitoring"
+        ],
+        "Spring Boot": [
+            "Smart Clothing App Development for Health Monitoring",
+            "Digital Ad Order Management Solution with Data Analytics"
+        ],
+        "Reactive streams": [
+            "Smart Clothing App Development for Health Monitoring"
+        ],
+        "Netty": [
+            "Smart Clothing App Development for Health Monitoring"
+        ],
+        "Keras": [
+            "Smart Clothing App Development for Health Monitoring",
+            "Machine Learning Driven Healthcare Monitoring System"
+        ],
+        "Java NIO": [
+            "Smart Clothing App Development for Health Monitoring"
+        ],
+        "Java 10": [
+            "Smart Clothing App Development for Health Monitoring"
+        ],
+        "Hystrix": [
+            "Smart Clothing App Development for Health Monitoring"
+        ],
+        "Eureka": [
+            "Smart Clothing App Development for Health Monitoring"
+        ],
+        "DC-OS": [
+            "Smart Clothing App Development for Health Monitoring"
+        ],
+        "Confluent": [
+            "Smart Clothing App Development for Health Monitoring"
+        ],
+        "React JS": [
+            "Virtual Fitting Room Software Development"
+        ],
+        "NodeJS": [
+            "Virtual Fitting Room Software Development"
+        ],
+        "MySQL DB": [
+            "Virtual Fitting Room Software Development"
+        ],
+        "Mongo DB": [
+            "Virtual Fitting Room Software Development"
+        ],
+        "WordPress": [
+            "Virtual Fitting Room Software Development"
+        ],
+        "WooCommerce": [
+            "Virtual Fitting Room Software Development"
+        ],
+        "App Center": [
+            "Smart IoT Remote Refrigeration Monitoring System"
+        ],
+        "Microsoft Authenticator": [
+            "Smart IoT Remote Refrigeration Monitoring System"
+        ],
+        "MUI": [
+            "Smart IoT Remote Refrigeration Monitoring System"
+        ],
+        "Power Apps": [
+            "Real-Time Inventory Management & Tracking System"
+        ],
+        "SharePoint": [
+            "Real-Time Inventory Management & Tracking System"
+        ],
+        "Azure SQL": [
+            "Real-Time Inventory Management & Tracking System",
+            "Web-based E-Learning Platform Modernization"
+        ],
+        "JavaScript": [
+            "Real-Time Inventory Management & Tracking System",
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "Json": [
+            "Real-Time Inventory Management & Tracking System",
+            "Real-time Digital Ad Inventory Management Software Modernization"
+        ],
+        "HTML 5": [
+            "Real-Time Inventory Management & Tracking System"
+        ],
+        "Android-studio": [
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "Hilt": [
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "Jetpack compose": [
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "Room DB": [
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "Rust language": [
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "XCode": [
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "Swift UI": [
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "Core Data": [
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "Html 5": [
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "C++": [
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "Ruby": [
+            "Mobile & Web Indoor Mapping & Navigation App Development"
+        ],
+        "PHP": [
+            "Mobile & Web Indoor Mapping & Navigation App Development",
+            "Real-time Digital Ad Inventory Management Software Modernization",
+            "Therapy Practice Management System Modernization"
+        ],
+        "Xamarin": [
+            "ELD Fleet Management Mobile App Development",
+            "Mobile Money Transfer App Development",
+            "Gas Cylinder Distribution & Tracking System"
+        ],
+        "Bluetooth 5.0": [
+            "ELD Fleet Management Mobile App Development"
+        ],
+        ".NET": [
+            "Mobile Money Transfer App Development"
+        ],
+        "MS Azure": [
+            "Mobile Money Transfer App Development",
+            "Cloud-Based Data Warehouse System",
+            "Web-based E-Learning Platform Modernization"
+        ],
+        "MS SQL Server": [
+            "Mobile Money Transfer App Development",
+            "Gas Cylinder Distribution & Tracking System",
+            "Cloud-Based Data Warehouse System",
+            "Web-based E-Learning Platform Modernization",
+            "Real Estate Web Portal Development",
+            "HR Management System Modernization"
+        ],
+        "node js": [
+            "Online Event Ticket Reservation App",
+            "Dedicated Healthcare Dashboard Portal"
+        ],
+        "Laravel": [
+            "Online Event Ticket Reservation App",
+            "Anime Streaming App Development"
+        ],
+        ".NET Core": [
+            "Gas Cylinder Distribution & Tracking System",
+            "Web-based E-Learning Platform Modernization",
+            "HR Management System Modernization"
+        ],
+        "talend": [
+            "Cloud-Based Data Warehouse System"
+        ],
+        "SSIS": [
+            "Cloud-Based Data Warehouse System"
+        ],
+        "ASP.Net Core": [
+            "Cloud-Based Data Warehouse System"
+        ],
+        "Rest API": [
+            "Cloud-Based Data Warehouse System"
+        ],
+        "Drools": [
+            "Real-time Bank Fraud Detection and Prevention Software"
+        ],
+        "Java8": [
+            "Real-time Bank Fraud Detection and Prevention Software"
+        ],
+        "Apache Storm": [
+            "Real-time Bank Fraud Detection and Prevention Software"
+        ],
+        "RabbitMQ": [
+            "Real-time Bank Fraud Detection and Prevention Software"
+        ],
+        "ZooKeeper": [
+            "Real-time Bank Fraud Detection and Prevention Software",
+            "Real-time Digital Ad Inventory Management Software Modernization"
+        ],
+        "Apache Spark": [
+            "Real-time Bank Fraud Detection and Prevention Software"
+        ],
+        "JAVA NIO": [
+            "Real-time Bank Fraud Detection and Prevention Software"
+        ],
+        "ASP.NET MVC": [
+            "Appointment Scheduling App Modernization"
+        ],
+        "Microsoft SQL Server": [
+            "Appointment Scheduling App Modernization",
+            "Re-Engineering of Meeting & Appointment Scheduling Software",
+            "Optimizing Contingent Workforce Management",
+            "Modernizing Legacy Administration Management Solution"
+        ],
+        "Amazon-EC2": [
+            "Real-time Digital Ad Inventory Management Software Modernization"
+        ],
+        "Azure Blob Storage": [
+            "Web-based E-Learning Platform Modernization"
+        ],
+        "Azure Traffic Manager": [
+            "Web-based E-Learning Platform Modernization"
+        ],
+        "Azure Virtual Machine": [
+            "Web-based E-Learning Platform Modernization"
+        ],
+        "EJB": [
+            "eCommerce Platform Modernization"
+        ],
+        "JAVA": [
+            "eCommerce Platform Modernization"
+        ],
+        "Lucene": [
+            "eCommerce Platform Modernization"
+        ],
+        "My-SQL": [
+            "eCommerce Platform Modernization",
+            "Enterprise Content Management Software Modernization"
+        ],
+        "Eclipse": [
+            "Digital Ad Order Management System Modernization"
+        ],
+        "Jboss": [
+            "Digital Ad Order Management System Modernization"
+        ],
+        "Apache-Tomcat": [
+            "Enterprise Content Management Software Modernization"
+        ],
+        "AWS2": [
+            "Enterprise Content Management Software Modernization"
+        ],
+        "HTML": [
+            "Enterprise Content Management Software Modernization"
+        ],
+        "Oracle-Database": [
+            "Enterprise Content Management Software Modernization"
+        ],
+        "Jsp": [
+            "Enterprise Content Management Software Modernization"
+        ],
+        "SQL-Server": [
+            "Human Error Detection Software Solution"
+        ],
+        ".Net Core": [
+            "Human Error Detection Software Solution",
+            "Real Estate Web Portal Development"
+        ],
+        "Xcode": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Maven": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Gradle": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Apache-Ant": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Bitbucket": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "GitLab": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "GitHub": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Azure": [
+            "CI/CD Automation & DevOps Implementation",
+            "Real Estate Web Portal Development"
+        ],
+        "Nagios": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Monitor": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Datadog": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Puppet": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Chef": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Ansible": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "JIRA": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Confluence": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Jenkins": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "DevOps-Isomatrics": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Azure-Pipelines": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Apache-JMeter": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "BlazeMeter": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Burpsuite": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Selenium": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Wireshark": [
+            "CI/CD Automation & DevOps Implementation"
+        ],
+        "Drupal": [
+            "Therapy Practice Management System Modernization",
+            "User-Friendly Homecare Provider Portal"
+        ],
+        "mysql": [
+            "Therapy Practice Management System Modernization",
+            "Cloud-based Workplace Health and Safety Management Software"
+        ],
+        "apache": [
+            "Therapy Practice Management System Modernization"
+        ],
+        "jquery": [
+            "Cloud-based Workplace Health and Safety Management Software"
+        ],
+        "angular-js": [
+            "Cloud-based Workplace Health and Safety Management Software"
+        ],
+        "Android": [
+            "Cloud-based Workplace Health and Safety Management Software",
+            "User-Friendly Homecare Provider Portal"
+        ],
+        "iOS": [
+            "Cloud-based Workplace Health and Safety Management Software",
+            "AR-based Product Visualization App Development",
+            "User-Friendly Homecare Provider Portal"
+        ],
+        "Visual Studio": [
+            "Real Estate Web Portal Development"
+        ],
+        "Bootstrap": [
+            "Real Estate Web Portal Development",
+            "User-Friendly Homecare Provider Portal"
+        ],
+        "HTML5 and CSS3": [
+            "Real Estate Web Portal Development"
+        ],
+        "OpenCV": [
+            "AR-based Product Visualization App Development"
+        ],
+        "JBoss": [
+            "Veterinary Practice Management System"
+        ],
+        "jetty": [
+            "Veterinary Practice Management System"
+        ],
+        "jira": [
+            "Automated Agile Testing To Modernize Legacy Application"
+        ],
+        "visual studio": [
+            "Automated Agile Testing To Modernize Legacy Application"
+        ],
+        "Microsoft TFS": [
+            "Automated Agile Testing To Modernize Legacy Application"
+        ],
+        "Microsoft Test Manager - MTM": [
+            "Automated Agile Testing To Modernize Legacy Application"
+        ],
+        "Tensorflow": [
+            "Machine Learning Driven Healthcare Monitoring System"
+        ],
+        "Apache": [
+            "User-Friendly Homecare Provider Portal"
+        ],
+        "Redis": [
+            "Digital Ad Order Management Solution with Data Analytics"
+        ],
+        "My SQL": [
+            "Digital Ad Order Management Solution with Data Analytics"
+        ],
+        "AngularJS": [
+            "Re-Engineering of Meeting & Appointment Scheduling Software"
+        ],
+        "ASP.NET Core": [
+            "Re-Engineering of Meeting & Appointment Scheduling Software"
+        ],
+        "Jira": [
+            "Re-Engineering of Meeting & Appointment Scheduling Software"
+        ],
+        "kendo ui": [
+            "Migration & Modernization of a Hotel Booking System"
+        ],
+        "HTML5": [
+            "Migration & Modernization of a Hotel Booking System"
+        ],
+        "sass": [
+            "Migration & Modernization of a Hotel Booking System"
+        ],
+        "Katalon Studion": [
+            "Migration & Modernization of a Hotel Booking System"
+        ],
+        "Microsoft .NET": [
+            "Optimizing Contingent Workforce Management",
+            "Modernizing Legacy Administration Management Solution",
+            "Property Management Solution with Marketing & Sales Automation",
+            "Production Planning & Reporting Software Modernization"
+        ],
+        "xml-logo": [
+            "Optimizing Contingent Workforce Management"
+        ],
+        "microstrategy-logo": [
+            "Optimizing Contingent Workforce Management"
+        ],
+        "aspmvc5-logo": [
+            "Modernizing Legacy Administration Management Solution"
+        ],
+        "jquery-logo": [
+            "Modernizing Legacy Administration Management Solution"
+        ],
+        "ajax-toolkit": [
+            "Modernizing Legacy Administration Management Solution"
+        ],
+        "visual-studio": [
+            "Property Management Solution with Marketing & Sales Automation"
+        ],
+        "Microsoft-Dynamics-365-Commerce-App": [
+            "Property Management Solution with Marketing & Sales Automation"
+        ],
+        "spring": [
+            "Field Sales Management Mobile App",
+            "Multi-channel e-Commerce Management Solution"
+        ],
+        "wildfly_logo": [
+            "Field Sales Management Mobile App"
+        ],
+        "aws logo1": [
+            "Field Sales Management Mobile App",
+            "Dedicated Healthcare Dashboard Portal"
+        ],
+        "rest-logo": [
+            "Field Sales Management Mobile App"
+        ],
+        "postman-logo": [
+            "Field Sales Management Mobile App"
+        ],
+        "Jboss-logo": [
+            "Ecommerce Solution Development & Maintenance Services"
+        ],
+        "Tomcat-Logo": [
+            "Ecommerce Solution Development & Maintenance Services"
+        ],
+        "solr-logo-1": [
+            "Ecommerce Solution Development & Maintenance Services"
+        ],
+        "next-js-logo": [
+            "Dedicated Healthcare Dashboard Portal"
+        ],
+        "MS-Dyamic-GP-logo": [
+            "Production Planning & Reporting Software Modernization"
+        ],
+        "logo-stack (1)": [
+            "Production Planning & Reporting Software Modernization"
+        ],
+        "ASP.NET-Webforms": [
+            "HR Management System Modernization"
+        ],
+        "ReactJS": [
+            "HR Management System Modernization"
+        ],
+        "Solr": [
+            "HR Management System Modernization"
+        ],
+        "Tableau": [
+            "Multi-channel e-Commerce Management Solution"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+[{
+    "about_us": {
+        "banner": [
+            "Continually Enhancing Value for Our Global Customers",
+            "Our Vision"
+        ],
+        "services_we_offer": {
+            "title": "About Rishabh",
+            "description": "Rishabh Software was founded in the year 2000 by Mr. & Mrs. Raju Shah with a simple thought of delivering exceptional value to global customers. From the start, the vision was clear – to empower businesses with world-class software solutions. They did this by tapping into local talent in their home state of Gujarat by building a platform for budding software developers to grow and nurture their careers. At Rishabh, we not only provide your business with exceptional enterprise-grade applications but go above and beyond. With 1200+ successful projects and a process-driven mindset, we’ve got your back. Our repeat clientele speaks volumes for our values and ethics in all our dealings – be it software development across web, mobile, analytics, cloud, or through our engineering and BPO services. We believe in doing the best for our clients because WE CARE."
+        },
+        "core_values": [
+            "Core Values",
+            "Our success is defined by our core values of commitment to clients, ethics and society through sustained collaboration, honesty and opportunity creation partnerships.",
+            "Long-term relationships with high commitment",
+            "Multi-level engagements with personalized attention",
+            "Honesty in client engagement",
+            "Integrity in our work",
+            "Customer satisfaction being imperative",
+            "World-class opportunities to local talent",
+            "Specialized training programs for budding talent",
+            "Mentorship collaboration with major regional bodies"
+        ],
+        "leadership_team": [
+            {
+                "name": "Raju Shah",
+                "title": "Founder & Chief Executive Officer",
+                "bio": "A serial entrepreneur and visionary, Mr. Shah has four decades of impeccable experience in setting the strategic direction for Rishabh."
+            },
+            {
+                "name": "Saumil Shah",
+                "title": "Chief Strategy Officer",
+                "bio": "Saumil Shah is at the forefront of the company’s digital journey. As a true strategic leader, this IIT-Kanpur & London Business School alumnus gets things done with efficiency and precision."
+            },
+            {
+                "name": "Srinivasa Challa",
+                "title": "Chief Technology Officer",
+                "bio": "CS steers the company’s forays by filling the gaps between technology and business. An ardent technologist, with 30+ years of experience in delivering technology solutions and creating IT strategies for large enterprises."
+            },
+            {
+                "name": "Balaji K S",
+                "title": "SVP – People and Client Success",
+                "bio": "Balaji’s role has been instrumental in Rishabh’s transformational journey, shaping its people, processes, and the organizational structure. With 22 years of human resource management experience, Balaji drives successful client engagements and people management initiatives."
+            },
+            {
+                "name": "Kandarp Shah",
+                "title": "AVP - Technology (Microsoft Practice)",
+                "bio": "Kandarp Shah has over 16+ years of experience with Microsoft technologies. He drives strategy and execution spanning all aspects of digital transformation and technology development for clients using the Microsoft ecosystem."
+            },
+            {
+                "name": "Bhardwaj Pandya",
+                "title": "VP - Technology",
+                "bio": "Bhardwaj Pandya constructs large scalable systems with a passion for open source technologies. Bringing over 19+ years of technology experience, he drives innovation across enterprise applications and architecture."
+            },
+            {
+                "name": "Suresh Patel",
+                "title": "AVP - Technology (Digital Services Practice)",
+                "bio": "Suresh Patel through his 18+ year professional journey has made a significant mark in achieving peak customer satisfaction through the successful delivery of digital services projects."
+            },
+            {
+                "name": "Prasanth Nair",
+                "title": "AVP - Technology (Analytics Practice)",
+                "bio": "Prasanth Nair is known for driving business transformation initiatives by leveraging analytics & data science to help solve real-world business problems. With 20+ years of experience, he leads data-centric innovation for client success."
+            },
+            {
+                "name": "Sapan Sehgal",
+                "title": "VP - IT Operations",
+                "bio": "Sapan Sehgal has close to 22 years of experience in establishing, leading, and managing quality across diverse geography projects, ensuring that business operations run smoothly and technology infrastructures are reliable and secure."
+            }
+        ]
+    }
+}
+]

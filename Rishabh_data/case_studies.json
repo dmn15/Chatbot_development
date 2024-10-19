@@ -1,0 +1,1505 @@
+[
+   {
+      "title": "Clinical Trial Management System Development",
+      "about": "A US-based imaging core lab sought to enhance clinical trial management and engaged with Rishabh Software to develop a streamlined CTMS for multicenter studies. The Healthtech client was facing challenges in organizing, storing, and retrieving clinical data. They needed an advanced, scalable clinical trial management system and partnered with us to handle large volumes of medical imaging data efficiently. They leveraged our experience in healthcare software product engineering to implement a centralized CTMS.",
+      "key_features": {
+         "Key Features": "To address the client\u2019s complex requirements, we developed a comprehensive clinical trial management software that efficiently streamlined the vast amount of data, documentation, and processes involved in clinical trials. The key features of this CTMS include:",
+         "Collaborative Platform": "The clinical research management platform acts as a centralized communication hub that enables swift and seamless collaboration among researchers, clinicians, and sponsors. It generates real-time insights into trial progress and performance, improving decision-making throughout the trial.",
+         "Enhanced Reporting and Analytics": "The system\u2019s advanced reporting and analytics tools let clients track trial progress, spot data trends, and create detailed reports. This helps research institutions and pharmaceutical companies make better decisions based on real-time insights, improving overall trial outcomes.",
+         "Multi-Level Trial Management": "The clinical trial management software supports comprehensive trial management. It facilitates the easy onboarding of new companies with multiple trial setups and manages detailed subject information. The system also tracks visits and securely stores complete visit data, including reports, images, PDFs, and DICOM files for advanced medical imaging.",
+         "Customizable Data Forms and Templates": "Our CTMS development approach integrated customizable forms and templates for various trial data types. This flexibility ensures that data collection aligns with the specific requirements of clinical study management while also maintaining thorough documentation and efficient data management."
+      },
+      "challenges": [
+         "Inefficient data management of diverse data posed a serious risk to trial integrity and accuracy\nEnsuring regulatory compliance throughout the trial process was complex and time-consuming\nSystem integration failures often created data silos and disrupted operations\nScalability issues caused delays and performance bottlenecks as trials increased\nLack of real-time data access hindered timely decisions and resource allocation\nInteroperability gaps led to challenges in data exchange, increased manual efforts, & risked data transfer errors"
+      ],
+      "solutions": {
+         "Solution": "Our team of experiencedsoftware product engineersaddressed key challenges like eliminating data silos, improving security, and ensuring smooth interoperability. We developed a comprehensive CTMS that accelerates trials, reduces costs, and maintains the highest data integrity and patient safety standards. The new system meets all regulations and integrates effortlessly with various pharmaceutical and healthcare systems.",
+         "Interoperability and Integration Capabilities": "We created standardized data exchange formats and robust APIs to facilitate smooth integration with external systems like EHRs, imaging tools, and LIMS. By Integrating these diverse systems, the system adheres to industry standards for data interoperability, facilitates seamless data exchange, and enhances overall efficiency.",
+         "Trial Management System & Configuration Application": "The CTMS offering comprises two key components \u2013 a comprehensive trial management system and a setup & configuration Windows application for system customization. This dual approach ensures user-friendly operation for research teams and flexible administration for IT staff, efficiently addressing diverse clinical research needs.",
+         "Centralized Data Management": "Utilizing our data architecture and management expertise, we created a secure, centralized database for efficient data storage and retrieval. It supports customizable forms and templates for various clinical trial data and ensures accuracy and consistency.",
+         "Automated Regulatory Compliance": "The clinical trial management system has built-in checks and validation rules to meet regulatory requirements such as FDA and EMA. It automates the creation of documents and reports. This reduces the risk of non-compliance and ensures that documentation meets industry standards and regulatory guidelines."
+      },
+      "technology_used": [
+         "C#",
+         ".NET MVC",
+         "SQL Server"
+      ],
+      "other_details": {
+         "Capability": "Software Product Engineering",
+         "Industry": "Healthcare",
+         "Country": "USA"
+      }
+   },
+   {
+      "title": "Modernizing ERP for the Manufacturing Industry",
+      "about": "A leading German manufacturing group was looking for a development partner to modernize its legacy ERP system. Their existing system, once effective, had over time, become a bottleneck due to its inability to keep pace with the company\u2019s expanding operations. They recognized the urgency to change and decided that a digital transformation was necessary to revamp their ERP infrastructure for enhanced agility, scalability, and productivity. By modernizing ERP for the manufacturing industry, we addressed critical pain points and delivered a scalable, secure, and integrated ecosystem.",
+      "key_features": {
+         "Tactical Approach": "In response to the client\u2019s pressing challenges, our team mapped out a customized and comprehensive ERP modernization strategy based on a robust technology stack comprising JSP, Spring MVC, Hibernate, jQuery, MySQL, and Java 6. Our team\u2019s prowess in reengineering ERP systems for metal & machinery manufacturers resulted in a secure, scalable, and highly integrated ERP ecosystem. To drive digital transformation, the process was executed in the following phases:",
+         "System Assessment": "We thoroughly analyzed the client\u2019s existing system architecture to identify and address any inefficiencies, pain points, and areas for optimization.",
+         "Customization and Integration": "We developed and integrated custom modules within the ERP system while ensuring alignment with the client\u2019s business processes and industry standards.",
+         "Data Migration and Cleansing": "We facilitated a smooth transition to the modernized ERP software system by migrating data sets with a focus on data integrity, accuracy, and security. Our team employed sophisticated algorithms and protocols, purged redundancies, rectified inconsistencies, and optimized data structures for better performance and usability.",
+         "Training and Support": "We provided personalized training sessions covering system navigation, best practices, and troubleshooting. Additionally, we offered ongoing support and maintenance to ensure uninterrupted operation."
+      },
+      "challenges": [
+         "Legacy systems impaired data-driven decisions\nInconsistent data formats caused planning errors\nOutdated security exposed business data to potential cyber threats\nLimited vendor support increased operational risks\nLegacy integration challenges hindered cross-functional processes"
+      ],
+      "solutions": {
+         "Quantifiable Outcomes": "Our team led the ERP modernization for manufacturer while ensuring it aligns with the demands of a digital-first world. We focused on delivering a feature-rich, fully functional system with a unified user experience. The metal & machinery manufacturer company\u2019s ERP modernization was primed to streamline operations, improve decision-making, and enhance customer service. From automating inventory management to accelerating order fulfillment, the modernized ERP system has the capabilities to:",
+         "Extract Real-Time Data Insights": "The modernized ERP system provides real-time visibility into operations, instant access to crucial data, and supports informed decision-making.",
+         "Generate Comprehensive Reports": "Users can track and visualize KPIs in real time, perform integrated reporting and analytics, and gain actionable insights for strategic planning.",
+         "Speed-up Production Processes": "We optimized production workflows, automated manual tasks, improved coordination between departments, and increased productivity while reducing lead times.",
+         "Streamline Equipment Maintenance": "The advanced maintenance module ensures peak efficiency with real-time equipment health monitoring, alerts for potential issues, and intelligent scheduling of maintenance tasks."
+      },
+      "technology_used": [
+         "Hibernate",
+         "Java 6",
+         "jQuery",
+         "JSP",
+         "MySQL",
+         "Spring MVC"
+      ],
+      "other_details": {
+         "Capability": "Legacy System Modernization",
+         "Industry": "Manufacturing",
+         "Country": "Germany"
+      }
+   },
+   {
+      "title": "Loan Processing Mobile App Development",
+      "about": "An Africa-based fintech organization partnered with Rishabh Software for microfinance loan app development. The partnership aimed to automate and streamline its entire loan lifecycle, from the initial assessment of the loan application and KYC verification to loan approval and disbursement. The primary goal was automating the process from authentication to loan disbursement while maintaining the highest standards of operational efficiency and customer satisfaction.",
+      "key_features": {
+         "Key Features": "Rishabh Software developed a microfinance loan processing app catering to the end customers and the client\u2019s banking partners. We re-engineered the existing loan application process and implemented a workflow engine to automate the loan process. Key features of the solution include:"
+      },
+      "challenges": [
+         "Inefficient document validation & management delayed loan application reviews\nPredominantly manual system made loan processing cumbersome and resource-intensive\nBanks struggled to confirm applicants\u2019 identities due to different versions of customer names across different IDs\nThe absence of integrated screening, risk-scoring, and assessment tools hindered accurate credit decisions during the loan approval process.\nLimited integration with existing banking systems hampered efficient loan disbursement and servicing."
+      ],
+      "solutions": {
+         "Solution": "We refactored the existing codebase and leveraged Spring Integration as the custom workflow engine developer framework to automate the loan application process and ensure seamless integration with the existing Java-based architecture. We executed the following key initiatives for digital lending platform development for microfinance banks:",
+         "Automated End-to-End Process": "We engineered a comprehensive solution using the Spring Integration framework to automate every aspect of the loan lifecycle process, from KYC authentication to loan disbursement and payment. This streamlined approach ensures efficiency, accuracy, and a seamless user experience throughout the entire process.",
+         "Backend API Development and Mobile App Integration": "Leveraging Kotlin,Java, andReact Native, we developed robust backend APIs and integrated them with the mobile application. This unified ecosystem enables smooth data flow and interaction, enhancing overall system performance and user satisfaction.",
+         "Algorithm Development for Risk Assessment": "Our team devised sophisticated proprietary algorithms to calculate risk scores, verify documents, and make instant approval or rejection decisions. This intelligent system ensures swift and accurate processing of loan applications, minimizing delays and optimizing user experience.",
+         "Integration with Financial Institutions and Credit Bureaus": "The platform seamlessly integrates with partner banks\u2019 core banking systems to automate loan disbursement and payment reconciliation. It enables real-time fund transfers upon loan approval and automatically fetches EMI transaction reports for efficient reconciliation upon loan closure. To further enhance the platform\u2019s capabilities, we integrated with leading financial institutions and credit bureaus for loan disbursement and credit scoring."
+      },
+      "technology_used": [
+         "Java",
+         "Kotlin",
+         "AWS",
+         "React Native",
+         "Node.js",
+         "ExpressJS",
+         "MongoDB",
+         "PostgreSQL"
+      ],
+      "other_details": {
+         "Capability": "Digital Experience",
+         "Industry": "FinTech",
+         "Region": "African Country"
+      }
+   },
+   {
+      "title": "Mobile Payment App Development",
+      "about": "With the growing demand for fast and convenient cashless transactions, a progressive FinTech firm partnered with Rishabh Software to tap into the profitable market of digital payment solution apps. Rishabh Software was engaged for a mobile payment app development project that aimed to provide Mauritian users with seamless, secure, and convenient digital transactions. This collaboration focused on enhancing the client\u2019s financial landscape, fostering financial inclusion, and optimizing mobile money adoption throughout the region.",
+      "key_features": {
+         "Key Features": "To address the client\u2019s need for custom digital payment app development, we designed a feature-rich digital payment solution that efficiently bridged the gap between banks and individuals. To ensure financial inclusion and optimized mobile money adoption, this user-friendly payment solution was further enhanced with the following key features:"
+      },
+      "challenges": [
+         "Complex traditional banking systems with intricate payment processes involving multiple intermediaries.\nThe absence of an app with a unified payment platform complicated payment processes across various institutions.\nThe need for receiver\u2019s registration initially hindered mobile-to-mobile transfers.\nSuccessful execution was crucial for seamless communication and transaction processing due to complex backend integrations.\nTechnical complexities hindered the integration of critical banking APIs.\nCompliance challenges with national and international regulatory standards.\nScalability needed enhancement to accommodate the increasing transaction volumes and expanding user base."
+      ],
+      "solutions": {
+         "Solution": "We implemented a multifaceted mobile payment application development strategy. It aimed to overcome the above-mentioned challenges and deliver a solution that simplified and streamlined the payment process.",
+         "Unregistered Number Transfers": "Recognizing the importance of accessibility, we introduced unregistered number transfers. This allowed users to initiate transactions effortlessly without the need for prior registration. This strategic pivot simplified the user experience, enhanced convenience, and widened the app\u2019s reach, fostering greater financial inclusion.",
+         "Expert API Integration": "Our team executed API integration for smooth communication and data exchange between various components of the platform like Banks, Financial Institutions, CDD Agencies, etc. By leveraging our expertise in API integration, we enabled smooth transaction execution, accurate data synchronization, and real-time updates. This ultimately enhanced the platform\u2019s reliability and performance.",
+         "Robust Callback Handling": "To address the need for timely transaction updates, we developed a robust callback mechanism capable of handling success and failure notifications with precision. This mechanism enabled the app to provide users with real-time transaction updates.",
+         "Precise QR Code Decoding": "We built a high-performance QR code decoder capable of fast and accurate scanning and processing. This feature enhanced the efficiency of QR code-based transactions, reducing transaction times and improving user experience."
+      },
+      "technology_used": [
+         "Java",
+         "Kotlin",
+         "MySQL",
+         "React Native",
+         "SpringBoot"
+      ],
+      "other_details": {
+         "Capability": "Digital Experience",
+         "Industry": "FinTech",
+         "Region": "Mauritius"
+      }
+   },
+   {
+      "title": "ERP System Reengineering and MES Implementation",
+      "about": "A prominent \u201cMade in USA\u201d Apparel Manufacturer was seeking a digital transformation partner to enhance efficiency, agility, and profitability. Outdated MES and ERP systems were hampering efficiency and affecting business growth. So, the client needed a scalable solution for actionable reporting and real-time data visualization. To facilitate their pursuit of digital manufacturing excellence, we assisted them with apparel industry legacy MES and ERP software modernization.",
+      "key_features": {
+         "Tactical Approach": "In our collaborative journey of digital transformation in manufacturing, we navigated the shift from legacy technologies like Microsoft Excel with VBA, MVC, and SQL to emerging technologies like NET 5.0, Angular, and Material Design. Our team strategically leveraged emerging digital technologies and data-driven processes to drive sustainable growth. This involved:",
+         "Development of an MES": "Our team spearheaded a modern MES to integrate suppliers, staff and distributors into a single platform. The modernized system unified inventory, production, orders, supply chain, and accounting data to streamline processes, increase efficiency, and enable informed decisions.",
+         "Migration to Azure Cloud": "We facilitated the successful transition of a legacy Windows application with limited VPN access to a dynamic cloud-based environment. This enabled the sales professionals to swiftly capitalize on opportunities, ensuring the client\u2019s sustained performance and competitiveness.",
+         "Integration and Connectivity": "Seamless integration and connectivity are at the core of our MES solution. We facilitated interoperability with existing enterprise systems, such as ERP and SCM, through standardized interfaces and APIs. By enabling bi-directional data exchange and workflow orchestration, our solution ensured end-to-end visibility and synchronization across the manufacturing ecosystem.",
+         "Power BI Integration and Data Visualization": "We leveraged Power BI for its data visualization capabilities. This integration allowed real-time access to key business metrics for stakeholders to make data-driven decisions with granular insights into business operations. Additionally, we implemented reporting capabilities within the new system, allowing users to generate custom reports targeting specific KPIs."
+      },
+      "challenges": [
+         "Siloed data and lack of real-time insights adversely impacted the ability to respond to market shifts.\nLack of security updates exposed systems to potential breaches and unauthorized access.\nLegacy technology was unable to keep up with modern demands and resulted in slower processing speeds.\nCompatibility issues with newer devices and software versions, hindered user adoption.\nLimited or no support from vendors for troubleshooting issues in obsolete solutions.\nOutdated UI/UX designs failed to meet the expectations of modern users, leading to user dissatisfaction."
+      ],
+      "solutions": {
+         "Quantifiable Outcomes": "Realizing the importance of adapting to evolving business needs and scaling operations for future growth, our MES solution was designed to provide flexibility. Our involvement in the legacy ERP & MES system modernization for apparel manufacturer ensured their systems were compliant, secure, efficient, and agile. Here are the key features and benefits of the solution:",
+         "Enhanced Supply Chain Visibility to Mitigate Risk": "The apparel industry involves complex global supply chains with multiple stakeholders and dependencies. Our MES solution enhanced supply chain visibility with capabilities to track raw materials, monitor production progress, and optimize delivery schedules on one unified platform. This real-time transparency facilitated smoother coordination between suppliers, distributors, and partners and helped mitigate the inherent operational risks in supply chain management.",
+         "Estimated Delivery Date Calculation": "With our ERP manufacturing execution system, accurate estimation of delivery dates became effortless. We integrated predictive analytics and historical data to forecast production lead times, considering factors such as material availability, production capacity, and order complexity. Precise delivery date calculations allowed the client to better manage customer expectations and optimize resource allocation.",
+         "Inventory Optimization to Improve Stock Management": "The MES and ERP integration enabled precise inventory management, minimizing excess stock and reducing carrying costs. Accurate inventory tracking ensured optimal stock levels, preventing stockouts and overproduction. This ultimately pushed the apparel manufacturing process into a new cycle of efficiency and agility.",
+         "Production Planning and Scheduling": "MES development solution optimized production planning and scheduling processes for enhanced efficiency and productivity. Leveraging advanced algorithms and real-time data integration, we enabled dynamic production scheduling, resource allocation, and workflow optimization. This ensured seamless coordination between production activities, minimized downtime, and maximized throughput."
+      },
+      "technology_used": [
+         "Azure Cloud Hosting",
+         "Azure DevOps",
+         "Power BI",
+         "Angular",
+         "NET",
+         "Terraform",
+         "Material Design",
+         "Liquibase",
+         "docker"
+      ],
+      "other_details": {
+         "Capability": "Digital Manufacturing",
+         "Industry": "Manufacturing",
+         "Country": "USA"
+      }
+   },
+   {
+      "title": "Smart Clothing App Development for Health Monitoring",
+      "about": "A leading smart clothing wearable technology brand partnered with Rishabh Software to develop a tracker app capable of real-time analysis of biosignals transmitted from e-textiles. We were engaged to facilitate near real-time transmission of biosignals received from smart clothing, allowing machine learning algorithms to predict health conditions and trigger alerts instantly. The collaboration aimed to empower users to manage stress and prevent fatal conditions through timely insights and interventions.",
+      "key_features": {
+         "Key Features": "We developed biosignals monitoring mobile app specifically tailored to the needs of our client\u2019s smart clothing for health monitoring. The app offers seamless access to real-time biosignals recorded from smart clothing. It enables users to actively monitor their health and take preventive or corrective actions to manage stress and mitigate the risk of fatal conditions.",
+         "Stress monitoring": "Tracks physiological indicators of stress, such as skin temperature, EEG, ECG, and heart rate, to determine the optimum zone for people doing workouts. It provides users real-time data on their stress levels and notifies them about deviations.",
+         "Fitness tracking": "Alongside monitoring physical activity, calorie count, and exercise performance, the app offers enhanced insights into muscle usage during workouts. Users can visualize the activation of different muscle groups in real-time and aim for more targeted and efficient workouts.",
+         "Integration with smart clothing": "Seamlessly integrates with intelligent clothing sensors to gather biometric data and sync with the mobile app for centralized data analysis and visualization.",
+         "Actionable insights": "The mobile interface presents stress and fitness data captured from smart clothing in an actionable format. It allows users to make informed decisions about their physical and mental well-being.",
+         "Predictive analytics": "We developed advanced algorithms to anticipate health pattern changes and alert users when it\u2019s time to slow down and hydrate. It ensures optimal performance and well-being. This feature allows fitness and healthcare professionals to implement personalized interventions for better lifestyle and health outcomes.",
+         "Smart clothing connectivity": "Through the user\u2019s personal account, seamless integration allows for adding new smart tech clothing items while providing real-time monitoring of battery status for connected garments."
+      },
+      "challenges": [
+         "To safeguard sensitive personal data collected from smart clothing against potential breaches to ensure compliance with stringent privacy regulations.\nTo ensure robust and secure data transmission between e-textiles and mobile applications while overcoming connectivity and security challenges.\nCritical need for a scalable solution that could grow with user demand while strictly adhering to global data privacy and protection standards.\nNeeded data analytics expertise to develop highly accurate and reliable machine learning models that could accurately predict health conditions from biosignals.\nRobust data processing and analysis capabilities to transmit biosignals in near real-time."
+      ],
+      "solutions": {
+         "Solution": "To address the client\u2019s challenges, we developed a robust backend system and used a scalable messaging framework to ensure real-time processing of biosignals from smart wearable clothing sensors. We also leveraged advanced technologies such as Java NIO, Apache Kafka, and Netty to ensure high-performance data transmission and ingestion, capable of handling massive volumes of data with minimal latency.",
+         "Advanced backend system development": "With a focus on reliability and scalability, we engineered a powerful backend system. It can effortlessly manage the real-time receipt of biosignals from over 10,000 devices, processing over 100GB of data per hour. Leveraging Java NIO, we ensured lightning-fast data processing, facilitating near real-time analysis of health data.",
+         "Dynamic temporal feature construction": "Our expertise in data science and machine learning enabled us to construct temporal features based on non-stationary, periodic systems. We developed algorithms capable of analyzing time-series data from biological systems connected to smart textiles. This solution played a crucial role in predicting health conditions and detecting stress levels in near real-time.",
+         "Data science pipeline implementation": "Our data science pipeline, powered by Apache Kafka, Spring Boot, and TensorFlow, ensured seamless data ingestion and processing workflows. We orchestrated containerization for scalability and reliability. This streamlined pipeline facilitated the development of machine-learning models for analyzing biosignals and predicting health outcomes.",
+         "Activity modeling and biosignal analysis": "Smart clothing sensors track biosignals and workout intensity for various activities like cycling, running, weightlifting, and push-ups. Live streaming from the mobile app syncs with a 3D model to show real-time muscle tension. Users can monitor muscle activity, productivity, performance, emotional state, and changes in temperature and blood flow. The app alerts users to potential training injuries and offers advice to prevent harm."
+      },
+      "technology_used": [
+         "AWS",
+         "Python",
+         "Casandra",
+         "Kafka",
+         "Docker",
+         "Kubernetes",
+         "Spring",
+         "TensorFlow",
+         "Spring Boot",
+         "Reactive streams",
+         "Netty",
+         "Keras",
+         "Java NIO",
+         "Java 10",
+         "Hystrix",
+         "Eureka",
+         "DC-OS",
+         "Confluent"
+      ],
+      "other_details": {
+         "Capability": "Healthcare Analytics",
+         "Industry": "Healthcare",
+         "Country": "UK"
+      }
+   },
+   {
+      "title": "Virtual Fitting Room Software Development",
+      "about": "A US-based startup in the tech and design space identified a pressing need in the retail and eCommerce sector \u2013 reducing customer returns and offering a personalized online shopping experience. To bridge this gap, they collaborated with Rishabh Software to develop a virtual dressing room web application targeting small and mid-size retailers. The goal of this virtual dressing app development project was to drive higher sales by allowing customers to try on products virtually without having to visit the physical store.",
+      "key_features": {
+         "Key Features": "We developed a user-friendly virtual dressing room application that would be placed on online stores for shoppers to try on clothes to enhance their personal shopping experience. It would allow online shoppers to use their own photos on smartphones or any AR-enabled devices and visualize how clothing items look on them. The key features of this virtual fitting room web app included:",
+         "Image upload functionality": "Enable end customers to upload their images to virtually try on clothing items. This technology utilizes advanced image processing algorithms to provide customers with an interactive try-on experience. It includes body measurement and mapping, virtual garment simulation, and AR image visualization.",
+         "Real-time try-on": "Customers can personalize their virtual experience with various color and size options and get a reliable sense of how a garment will look and fit their unique body. It will save a significant time and effort for customers and expands the range of options available to them regardless of physical store availability.",
+         "Optimized inventory management": "Retailers can easily upload and manage a diverse range of products within their online store. They can optimize inventory levels, reduce stockouts, and minimize overstocking. This leads to reduced storage costs and enhanced supply chain efficiency.",
+         "Data analytics": "The data collected through virtual fitting room interactions enables retailers to conduct market research, trend analysis, and product development. The data can then be used for customizing marketing campaigns and products based on customer preferences and purchase patterns."
+      },
+      "challenges": [
+         "Seamless and intuitive user experience for both retailers and end customers.\nThe actual need for scalability to accommodate a growing number of retailers and customers.\nRealistic and accurate virtual fitting experiences were significant challenges."
+      ],
+      "solutions": {
+         "Solution": "To address the client\u2019s challenges, we used advanced technologies likePython,NodeJS, andAWSto develop a virtual trial room web application. The web application enabled retailers to provide a personalized and convenient shopping experience to drive more sales and build customer loyalty. Our team leveraged its expertise in three key areas to ensure seamless functionality, scalability, and user-friendliness:",
+         "Augmented reality virtual fitting room expertise": "Our developers are well-versed in AR technology, and to deliver a desired solution we developed a realistic and engaging virtual try-on experience. We leveraged sophisticated pose estimation algorithms; to develop web application that accurately maps clothing onto uploaded images to offer an authentic interaction. This in turn allows retailers to offer confidence-boosting virtual try-on capabilities resulting in reduced returns and increased sales.",
+         "Seamless WordPress & WooCommerce integration": "The virtual fitting room for eCommerce was developed as a plugin for WordPress and WooCommerce, enabling retailers to effortlessly integrate the solution into their existing e-commerce websites. This minimized technical hurdles and disruptions and facilitated easy adoption by retailers. Our experience ensured a smooth user experience for both retailers and customers, maximizing the solution\u2019s impact.",
+         "Cloud & data management": "We leveraged the power of the cloud \u00a0to host the web application on Amazon Web Services (AWS). This robust platform provided unmatched scalability, reliability, and security, ensuring smooth virtual try-on experiences even during peak traffic periods. Additionally, our developers implemented MongoDB and MySQL databases for efficient customer and product data management. This facilitated fast retrieval and secure storage with smooth operation and scalability."
+      },
+      "technology_used": [
+         "AWS",
+         "Python",
+         "React JS",
+         "NodeJS",
+         "ExpressJS",
+         "MySQL DB",
+         "Mongo DB",
+         "WordPress",
+         "WooCommerce"
+      ],
+      "other_details": {
+         "Capability": "Digital Experience",
+         "Industry": "Retail",
+         "Country": "USA"
+      }
+   },
+   {
+      "title": "Smart IoT Remote Refrigeration Monitoring System",
+      "about": "A leading provider of data loggers and remote monitoring solutions turned to Rishabh Software to develop an IoT-based freezer temperature monitoring system for the pharma industry. Our team was engaged in integrating Bluetooth Low Energy (BLE) beacons and IoT connectivity to ensure that insulin injections and other pharma products are stored within the specified temperature ranges.",
+      "key_features": {
+         "Key Features": "Maintaining the right temperature is crucial in the pharmaceutical industry, especially for storing life-saving pharmaceutical products. Conventional temperature monitoring methods typically involve manual checks and paper logs which lack real-time visibility and are susceptible to errors. To address these issues, we implemented an IoT-based remote refrigeration monitoring system with the following essential features:",
+         "Remote freezer temperature monitor": "The system provides continuous temperature monitoring of freezers, displaying real-time data on the logger devices. This helps ensure that the temperature stays within specified limits.",
+         "Configuration management": "Configuration of the remote freezer temperature alarm with defined thresholds and user permissions. Receive instant alerts for temperature deviations to ensure timely intervention.",
+         "Comprehensive data analysis": "Comprehensive historical data logs enable temperature trends,\u00a0analysis,\u00a0and reporting. Detailed reports are generated daily and monthly, providing insights into temperature trends and deviations. Intuitive app design facilitates easy data visualization and\u00a0reporting.",
+         "Remote access and control": "Users can remotely access and manage data,\u00a0configure alerts,\u00a0and receive notifications from anywhere with a wireless freezer temperature monitoring system."
+      },
+      "challenges": [
+         "Constantly monitoring and maintaining commercial refrigeration equipment for optimal temperature levels across multiple locations.\nManual monitoring increased the risk of human error, potentially leading to compromised medical supplies and increased waste.\nImplementing a wireless temperature monitoring system with remote access and real-time monitoring required robust IoT infrastructure.\nSecuring data transmission and ensuring storage compliance with applicable pharma regulations and effectively documenting and reporting these conditions for certification.\nEffectively collect, manage, and extract actionable insights from the vast amount of data generated by loggers attached to the pharmaceutical temperature monitoring system."
+      ],
+      "solutions": {
+         "Solution": "We developed an IoT-based freezer temperature monitoring system for pharma industry that enables continuous temperature monitoring for cold and frozen environments. Integration of BLE beacons with temperature sensor beacons offers a robust solution for data logging and extraction. This solution enables remote monitoring while ensuring the quality and efficacy of vital medical supplies.",
+         "IoT integration for fridge check functionality": "The pharma and healthcare fridge check application integrates IoT devices, sensors, and actuators to enhance refrigerator functionality. By leveraging Internet connectivity, real time temperature monitoring system detects variations and medication inventory status, instantly transmitting the data via a logger.",
+         "Alert mechanism and user interface": "The IoT-based temperature monitoring system incorporates an alert mechanism to notify users in case of temperature deviations. Seamless integration with the logger device ensures instant notifications, enabling timely intervention to safeguard medication integrity. The user-friendly interface facilitates easy monitoring of refrigeration units for proactive management of temperature-sensitive medications and facilitates compliance with regulatory standards."
+      },
+      "technology_used": [
+         "App Center",
+         "Microsoft Authenticator",
+         "MUI"
+      ],
+      "other_details": {
+         "Capability": "IoT Application",
+         "Industry": "Pharmaceutical",
+         "Country": "USA"
+      }
+   },
+   {
+      "title": "Real-Time Inventory Management & Tracking System",
+      "about": "Our client is a prominent player in the warehouse and services sector, offering diverse supply chain solutions. Their existing inventory management system is a dynamic web-based solution, catered to diverse user roles across departments. Rishabh Software was engaged to develop a robust real-time inventory tracking system for logistics & SCM through their existing inventory platform. The goal was to empower staff to efficiently manage day-to-day inventory in real-time using a mobile-based solution.",
+      "key_features": {
+         "Key Features": "The developed BI analytics solution accurately captured all the records generated between the client and customers, visualizing essential Key Performance Indicators (KPIs) for inventory details. Through agile execution and incremental delivery, we designed a scalable, flexible, and open architecture pattern, supporting the client\u2019s current needs while allowing for future enhancements. The key features and components of this inventory management system included:",
+         "Visualizations": "Focusing on crucial KPIs for inventory details, the system projects business growth analysis at both yearly and monthly levels. This visual representation enhances data interpretation, enabling stakeholders to extract actionable insights swiftly.",
+         "Permissions": "Row Level Security (RLS) restricts access to dashboard reports. Shipping Clients and Inventory Clients are granted specific access rights to ensure data confidentiality.",
+         "Real-time Dashboards": "The system\u2019s dashboard design incorporates both inbound and outbound inventory dashboards, providing a comprehensive view of operations with granular level visibility. It allows the selection and creation of KPIs tailored to specific client needs, ensuring flexibility and customization for an enriched user experience.",
+         "Key Performance Indicators": "Leveraging sales-related data, the system measures inventory value effectively. It goes beyond mere measurement, defining precise measures, objectives, and definitions for KPIs. This clarity in KPI details contributes to strategic alignment and goal-oriented decision-making across departments."
+      },
+      "challenges": [
+         "Product managers faced difficulties in gauging product turnover rates and a pressing need for improved production planning and key performance metrics\nTracking and managing day-to-day inventory levels in real-time\nIntegrating API-first and mobility-based business intelligence in logistics industry\nLimited business user access to crucial inventory data across departments\nManual report generation lacked consistency around recording and accuracy in calculations"
+      ],
+      "solutions": {
+         "Solution": "One of the key challenges faced by the client was visualizing and measuring essential KPIs related to the inventory management system in logistics. Well-defined essential KPIs could contribute to strategic alignment by ensuring that all departments worked toward the same objectives. Our team defined the KPIs, making it easy to measure progress towards defined goals and assess the effectiveness of strategies. It was through the effective tracking and analysis of these KPIs that the client achieved functional objectives and established a successful inventory management framework that aligned with their business goals. The implementation of data visualization, comprehensive KPIs, and robust data modeling resulted in a transformative BI solution that enabled the client to optimize inventory management operations across the board.",
+         "Inventory turnover rate": "Reflects inventory management efficiency, indicating how quickly inventory is sold and replaced.",
+         "Average inventory": "Tracks stock levels during the specified timeframe to aid strategic decision-making.",
+         "Sales revenue": "Measures total revenue from sales within the defined period to provide accurate insights into financial performance.",
+         "Gross margin by product": "Analyzes profitability of products or categories to guide product management decisions.",
+         "Gross margin return on investment": "Assesses ROI concerning gross margin to provide insights into overall profitability.",
+         "Gross margin percent": "Evaluates financial health and profitability of the business based on gross margin percentage.",
+         "Revenue per unit": "Measures average revenue generated per unit sold to drive profitable pricing strategies.",
+         "Cost per unit": "Tracks average cost per unit sold to support cost management and pricing decisions.",
+         "Stock to sales ratio": "Tracks inventory levels and sales performance to generate actionable insights into stock management and demand forecasting."
+      },
+      "technology_used": [
+         "Power BI",
+         "Power Apps",
+         "SharePoint",
+         "SQL Server",
+         "Azure SQL",
+         "JavaScript",
+         "Json",
+         "HTML 5"
+      ],
+      "other_details": {
+         "Capability": "Data Analytics",
+         "Industry": "Logistics & SCM",
+         "Country": "USA"
+      }
+   },
+   {
+      "title": "Mobile & Web Indoor Mapping & Navigation App Development",
+      "about": "A leading UK-based indoor mapping service provider wanted to simplify and speed-up asset tracking & indoor navigation for their healthcare client. They were looking for a reliable tech partner tointegrate IoT capabilitieswith their indoor mapping and navigation application.",
+      "key_features": {
+         "Key Features": "We developed a native mobile app to enable seamless navigation for visitors of the facility and a web application with IoT capabilities for the medical staff to track assets.",
+         "Digital map": "Allows patients & visitors to quickly navigate across the network of services, patient rooms, pharmacy & other medical amenities.",
+         "Tracking of used & idle assets": "IoT sensors enable medical staff to locate & mobilize wheelchairs, stretchers, infusion pumps, ventilators, pacemakers.",
+         "Access control": "Enforce role-based access for the staff depending on hierarchy & confidentiality.",
+         "Voice-activated navigation": "Guides users to their desired destination with easy-to-follow voice directions while accurately displaying the position & distance of the equipment or location."
+      },
+      "challenges": [
+         "No mechanism for admin staff to track the hospital\u2019s movable assets & inventory\nLack of visibility for the nursing staff to search & filter available medical assets for utilization in the need of the hour\nInaccurate maps & manual floor plans resulted in difficulties for visitors to navigate through the facility"
+      ],
+      "solutions": {
+         "Solution": "We took an iterative approach to implement the Real-time Location System (RTLS) with IoT capabilities. In the first phase, we developed a native mobile app for both Android & iOS platforms. In the second phase, a web application with IoT capabilities to manage the back-end operations to monitor & communicate for equipment inventory & employee tracking.",
+         "Asset tracking": "We installed BLE tags to track medical equipment via the web application. They triangulate the signal for device location in real-time. This enabled the nursing staff to stay on top of high-value equipment, usage history & other data for optimized use of resources.",
+         "Floor mapping": "Our team converted the existing floor plan which was in the XML-based vector image format into interactive 2D maps. It allows complete digitalization of the physical space while providing a foundation layer for Asset Tracking and Wayfinding.",
+         "Implementing an AI-based routing system": "We utilized RUST to collect and interpret data from different sources to create accurate indoor maps. To determine optimal routes, we used theshortest path algorithmbased on heuristic methods. It ensures that the indoor maps are always up-to-date and match the actual terrain. This was with voice-based search to provide recommendations & directions.",
+         "Geo-zone placement": "We enabled seamless integration with GPS maps & medical solutions that use indoor floor plans. Our team developed geofence objects & implemented them with logic-flow-driven alerts (enter and exit a geo zone). Further by aligning the LAT/LONG coordinates, we provide real-world placement of medical inventory."
+      },
+      "technology_used": [
+         "Android-studio",
+         "Hilt",
+         "Jetpack compose",
+         "Kotlin",
+         "Room DB",
+         "Rust language",
+         "XCode",
+         "Swift UI",
+         "Core Data",
+         "Html 5",
+         "JavaScript",
+         "C++",
+         "Python",
+         "Ruby",
+         "PHP"
+      ],
+      "other_details": {
+         "Capability": "IoT Application",
+         "Industry": "Healthcare",
+         "Country": "UK"
+      }
+   },
+   {
+      "title": "ELD Fleet Management Mobile App Development",
+      "about": "The customer wanted to develop an Electronic Logging Device (ELD) mobile app with IoT capabilities to support fleet operations. It must help to manage Federal Motor Carrier Safety Administration (FMCSA) compliances that govern Hours of Service (HOS). Further, it would eliminate paper logs with accurate & reliable digital Records of Duty Status (RODS) for all commercial drivers.",
+      "key_features": {
+         "Key Features": "The developed fleet management mobile app allows fleet owners & operators to monitor, manage driver logs and conduct vehicle inspections. The key features of this ELD fleet app include:"
+      },
+      "challenges": [
+         "Manual methods for managing a fleet of vehicles prove to be inefficient, time-consuming, and expensive\nMinimal traceability of driving habits & drive time adversely impacts fuel consumption & management\nNo capabilities to track vehicle idling & fuel usage\nNo oversight of violations of federal fleet management regulations"
+      ],
+      "solutions": {
+         "Solution": "The ELD fleet app development process was executed in two phases.Phase 1: Creation of a mobile app to interact with IoT sensors (On-board Diagnostics (OBD) Port II) for GPS tracking & alertsPhase 2: Reporting of data in a standardized format that can be transmitted to law enforcement in prescribed ways, such as wireless web services, USB, or Bluetooth 2.0.",
+         "ELD mobile app with IoT connectivity": "We utilizedXamarinfor the development of an electronic logging device app solution. Our team integrated the app with vital components of the ELD solution including sensors, device functions, data, network-managed services, mapping & GPS functionality. It would update on vehicle status \u2013 in motion or idle. Further, tracks the driver\u2019s duty status and hours to trigger warnings in case of violation of HoS rules. Further, we also helped create a backend web console to track and map data points \u2013 from capturing the on-ground data & reporting of the same.",
+         "OBD-II integration to ELD solution": "The electronic logging device on board \u2013On-board Diagnostics (OBD) Port IIplugs into a vehicle\u2019s diagnostic port. It captures the vehicle\u2019s health & driver\u2019s duty status to send this data to the mobile app. The OBD port allows real-time monitoring of the engine, parts of the chassis, accessories, and body of the vehicle for running all sorts of diagnostics We utilized ELD hardware \u2013 Serial Port Profile (SPP) andGeneric Attribute Profile (GATT)Bluetooth profiles to enable seamless communication between devices."
+      },
+      "technology_used": [
+         "Xamarin",
+         "C#",
+         "Bluetooth 5.0"
+      ],
+      "other_details": {
+         "Capability": "IoT Application",
+         "Industry": "Logistics & SCM",
+         "Region": "USA"
+      }
+   },
+   {
+      "title": "Mobile Money Transfer App Development",
+      "about": "The customer wanted to build a custom money transaction platform that simplifies currency distribution for their global users. It must be scalable, intuitive & meets the global compliance norms for fraud detection, tax evasion & anti-money laundering. It would simplify currency distribution and facilitates instant fund transfers anywhere in just a few taps.",
+      "key_features": {
+         "Key Features": "The mobile solution helps manage secure fund transfer transactions based on the integration of reliable & available third-party solutions for payment processing."
+      },
+      "challenges": [
+         "No system to enable global compliance norms for fraud detection, tax evasion, anti-money laundering\nUnavailability of real-time currency conversion mechanism\nNo tracking mechanism for user & transaction management\nLack of system which can support multiple platforms"
+      ],
+      "solutions": {
+         "Solution": "Our proficient team utilized Microsoft\u2019s ecosystem to develop the entire money transfer platform with related components. The solution was built in a planned phase manner, starting with a \u201cProof of Concept\u201d to test and validate market acceptance of the proposed concept to develop the final platform.",
+         "Central platform": "We utilized.NET\u2019scapabilities to develop a centrally hosted transaction platform that manages the fund transfer transactions. \u00a0Our team leveragedAzureand SQL Server to manage mission-critical database workloads for this platform. It offered limitless scalability and performance and security to manage fund transfer transactions.",
+         "Third-party integrations": "We used secure & available third-party payment processing & fund transfer solutions likeCurrency Cloudfor currency conversion &Open Exchange Ratesfor currency value checks.Twiliowas for text-based messaging alerts on transactions, ID3Digital for Know Your Customer (KYC) processes.",
+         "Mobile application": "WithXamarinwe built an easy-to-use cross-platform mobile application that helped minimize development costs, increase device adoption, and app usability.",
+         "Business analytics": "We utilizedPower BI\u2019sinnate dashboarding capability to create templates for generating & extracting reports for platform users."
+      },
+      "technology_used": [
+         "Xamarin",
+         ".NET",
+         "MS Azure",
+         "Power BI",
+         "MS SQL Server"
+      ],
+      "other_details": {
+         "Platform": "Cross-platform",
+         "Industry": "Fintech",
+         "Region": "UK"
+      }
+   },
+   {
+      "title": "Online Event Ticket Reservation App",
+      "about": "The customer wanted to simplify the ticket booking experience and enable their partners to leverage the maximum commercial benefits. They wanted to develop a robust platform that enables seamless management of event ticket-booking for multiple events & generates accurate reports to keep a track of registrants vs attendees. Further, they were also looking to include a smart scanning interface to verify & validate ticket enrolment.",
+      "key_features": {
+         "Key Features": "The developed event ticket-booking mobile platform offers the client complete control over slot reservations, booking management & concurrent event handling. This was with an easier mechanism to search & book tickets. The app accepts reservations online and enables remote management of bookings for activities, events, and tours."
+      },
+      "challenges": [
+         "Management of massive bookings and multiple events especially during peak time\nThe complexity of managing payment gateways, online verification, scanning, and authenticity protocols\nLack of managing concurrent events at a single time\nLack of attendee intelligence and measurement of ROI"
+      ],
+      "solutions": {
+         "Solution": "We utilizedReact Nativeto develop the ticketing mobile application to be used by end users & event partners. This offered a smooth and responsive user interface, while significantly reducing load time. The backend technologies for this app comprisedLaraveland the frontend was managed with React Native &Node.js. The data exchange across the application was managed with MySQL.",
+         "Customer-facing mobile application": "No paragraph found for this heading.",
+         "Ticket scanning application": "No paragraph found for this heading.",
+         "Administration module": "No paragraph found for this heading.",
+         "Payment integration": "No paragraph found for this heading."
+      },
+      "technology_used": [
+         "node js",
+         "React Native",
+         "MySQL",
+         "Laravel"
+      ],
+      "other_details": {
+         "Capability": "Product Engineering",
+         "Industry": "Media & Entertainemnt",
+         "Region": "New Zealand"
+      }
+   },
+   {
+      "title": "Gas Cylinder Distribution & Tracking System",
+      "about": "A leading supplier of Butane, Propane, CNG, and LNG gas with a network of more than 1200 sales points across the country was looking to optimize its supply chain network and gain more control over stock levels. The European client was seeking a mobile-first gas cylinder management application to monitor the movement of cylinders and vehicles between the plant & refilling depot efficiently.",
+      "key_features": {
+         "Key Features": "The developed gas cylinder tracking system helped control the end-to-end process of gas supply digitally, from picking up the order to delivery and returning to the plant, for which a manual assignment was in place previously."
+      },
+      "challenges": [
+         "Mismatch of inventory items\nLack of efficient tracking of cylinder lifecycle, from filling to delivery, usage, and return\nComplex order workflow & inventory control system\nManual management of drivers right from picking orders to closing the request leads to an inefficient supply chain process\nNo monitoring of real-time activities of the distribution workforce"
+      ],
+      "solutions": {
+         "Solution": "The mobile application for gas cylinder distribution was developed usingXamarin. It acted as a single source of truth for: 1) Managing & monitoring gas cylinder delivery; 2)Real-time tracking of inventory utilization, vehicle usage & driver efficiency",
+         "Digitization of order management": "The agency/admin module helped track delivery efficiency, map inventory & automate delivery schedules. This granular level visibility enabled optimum delivery management of assets while accelerating turnaround time with optimization delivery routes.",
+         "UI/UX designing": "We utilizeAngularto deliver a seamless user experience with easy navigation for the drivers and agency users. Following the best practices of material design, we ensured intuitive & interactive interfaces across devices for smooth, swift, and efficient usage of the application.",
+         "Asset tracking": "Our team enabledBluetooth Low Energy (BLE) Beacontracking for assets (cylinders) to monitor their movement \u2013 from warehouse to final delivery. The beacon transmits a unique digital identifier which is scanned by the mobile app for easy tracking & counting of cages carrying the cylinders. This 360-degree visibility with geo-location tracking helps optimize process control & avoid the loss of cylinders.",
+         "Driver dashboard": "We developed a drive module interface that allowed drivers to view & accept dispatch schedules, and update on successful deliveries & cancellations."
+      },
+      "technology_used": [
+         "Xamarin",
+         "Angular",
+         ".NET Core",
+         "MS SQL Server"
+      ],
+      "other_details": {
+         "Platform": "Cross-platfrom",
+         "Industry": "Oil & Gas",
+         "Region": "France"
+      }
+   },
+   {
+      "title": "Cloud-Based Data Warehouse System",
+      "about": "The North American client is a pioneer in F&B, Resort management & Rental Home segments. They were using a wide array of applications (PMS, POS, analytics, inventory and more) to manage business data because of multiple business acquisitions. They wanted to create a data warehouse as the single version of the truth to enable stakeholders to derive valuable insights as per their needs.",
+      "key_features": {
+         "Key Features": "Rishabh Software built a Cloud Data Warehouse (DWH) Solution after merging & collaborating data from internal & third-party applications. Key features of the solution include:",
+         "Integrated consistent data": "The data warehouse improvesbusiness intelligenceby integrating & managing diverse, complex & large sets of data from disparate input data sources.",
+         "Scalable data reporting": "Helps scale analytic needs, without retooling while storing, processing & analyzing massive volumes of data with a minimal total cost of ownership (TCO) footprint.",
+         "Intuitive dashboards": "Easy access to reliable, high-quality data to different business units to assess.",
+         "Campaign support": "Centralized data repository to create customer profiles to drive focused sales & marketing initiatives with the right insights."
+      },
+      "challenges": [
+         "Lack of central source to store & manage data, leading to data stored in silos & increasing data redundancy\nNo visibility of the performance data for different business units\nNo customization of BI reports for changing business needs"
+      ],
+      "solutions": {
+         "Solution": "We started by creating a roadmap to build a data warehouse solution. Our experienceddata analyticsteam included \u2013 Business Analyst, Data Architect & Solution Architect. The first step was to plot detailed requirement mapping of elements.",
+         "Understanding data": "Performed data source identification (source, formats, entities & fields of interest), understanding data model for connected applications (SQL Server, Oracle Database, Salesforce & PMS). It was across over 20 disparate applications like email, API, flat files, RDBMS, customer CRM, etc.",
+         "Operational Data Store (ODS) creation": "Created rules for data validity, data deduplication & data sanity across all levels. Implement data pipelines to access data from transactional resources. Our team integrated data from multiple & diverse apps & IT systems.",
+         "ETL": "Creation of ETL routines, packages, and schedules with SQL Server Integration Services (SSIS) along with monitoring tools (ASP.NET Core Microservices) for end-to-end activities. It included identification of API integration (Salesforce and others) needs and developing an API layer.",
+         "Creation of DWH": "Developed an analytical layer while finalizing the data movement schedule and creating data marts for data ingestion and processing. Included mapping of integration needs from third-party applications.",
+         "Business Intelligence": "Utilized Microsoft SQL Server Analysis Services (SSAS), andPower BIto map the various KPIs including expense management, demand forecasting & customer satisfaction.",
+         "Deployment": "Deployed the DWH onMS Azureafter conducting a comparative analysis for the client."
+      },
+      "technology_used": [
+         "MS Azure",
+         "talend",
+         "MS SQL Server",
+         "SSIS",
+         "Power BI",
+         "ASP.Net Core",
+         "Rest API"
+      ],
+      "other_details": {
+         "Capability": "Data Analytics",
+         "Industry": "Travel & Hospitality",
+         "Country": "US"
+      }
+   },
+   {
+      "title": "Real-time Bank Fraud Detection and Prevention Software",
+      "about": "Our client is a credit union bank and they were on the lookout to integrate fraud detection capability into their core banking solution withdata analytics capabilitiesto monitor, identify, and prevent fraudulent transaction activities.",
+      "key_features": {
+         "Key Features": "The developed bank fraud detection & prevention software combines a rules-based decision engine & tracks past transactions for usage patterns to detect anomalies & prevent fraudulent attempts.",
+         "Fraud prevention framework": "The integrated banking fraud detection solution enables real-time monitoring, modification, and addition of fraud detection rules with proactive recommendations.",
+         "Deep insights on fraud patterns": "An essential checkpoint component analyzes in-process transactions and enables real-time blocking of unauthorized card/online transactions based on fraud detection algorithms.",
+         "Real-time transaction screening": "The developed adapter combined with ML capabilities constantly monitors incoming transaction data.",
+         "Automated alerts": "Accelerates investigation with suggestions on suitable action (review and block or discard) on detection of suspicious issues such as repeat transactions, high withdrawal velocity, or a rise in failed transaction rates."
+      },
+      "challenges": [
+         "Limited visibility into payment processing across applications\nThe limited window for fraud discovery on transactions occurring at a specific terminal\nInability to handle a high volume of unexpected fallback transactions\nMinimal transparency and traceability for unexpected transaction scenarios"
+      ],
+      "solutions": {
+         "Solution": "To offer proactive banking fraud analytics, listed below were our objectives;1) Connecting core banking endpoints as switch gateways2) Developing analytics engine3) Seamless integration with the core banking system",
+         "Connector application": "For each transaction submitted by the banking solution to the connector application, the connector application establishes a synchronous socket connection with a socket timeout set as per SLA. It parses incoming transaction, validates them, and then sends it for further processing to the stream processing engine.",
+         "Automated analytics engine": "Our team adopted a hybrid approach that combined rule-based engines, anomaly analysis, mathematical models, and unsupervised machine learning to build a recommendation engine. It would scan the financial data in real-time, highlight suspicious behavior & notify the bank to act in time.",
+         "Predictive rule model": "To generate quantitative insights into potential fraud activities, our team created risk and value-based scoring models applying statistical analysis. We also created and applied heuristic rules to identify unusual trends, flag risky data elements, and automatically route suspicious transactions to the case manager.",
+         "Load balancer": "We ensured zero downtime with an average transaction processing response time of 125 milliseconds while handling 90 million monthly transactions with automatic failover & intelligent clustering."
+      },
+      "technology_used": [
+         "Drools",
+         "Java8",
+         "Apache Storm",
+         "RabbitMQ",
+         "ZooKeeper",
+         "Apache Spark",
+         "JAVA NIO"
+      ],
+      "other_details": {
+         "Capability": "Data Analytics",
+         "Industry": "FinTech",
+         "Country": "Canada"
+      }
+   },
+   {
+      "title": "Appointment Scheduling App Modernization",
+      "about": "The North American healthcare service provider wanted to upgrade its legacy appointment scheduling application. Their existing system with a poor interface and limited interactive features was not able to support medical professionals to manage & schedule appointments, receive payments & generate custom reports.",
+      "key_features": {
+         "Key Features": "The legacyapplication modernizationfor the healthcare service provider helped streamline & support the varied modules while aligning their business workflows to offer much-needed convenience & support.",
+         "Improved user experience": "New and intuitive interface allows users ( both \u2013 medical professionals & patients) easy access to a comprehensive directory of medical services with single-click requests.",
+         "Notifications & reminders": "Push notifications to remind practitioners about their upcoming appointments so they can confirm or reschedule the slot for online consultation.",
+         "Real-time cashflow insights": "Accurate & detailed outlook of revenues from any device & anywhere with secure payment gateway integration for all scheduled consultations, visits, and services.",
+         "Centralized dashboard": "Supports real-time tracking & management of bookings, cancellations, payments and more."
+      },
+      "challenges": [
+         "Complicated workflow resulting in efficiency loss for medical professionals\nPoor UI/UX resulted in a low patient return rate\nLimited/No insight availability for associated professionals"
+      ],
+      "solutions": {
+         "Solution": "Rishabh Software helped re-engineer the online appointment booking application that simplifies operations like patient management, appointment scheduling, doctors\u2019 schedule mapping, prescriptions management & payment module.",
+         "Service dashboard development": "Created a single source dashboard that allowed medical professionals with a unified view of patient appointments \u2013 completed & upcoming with payment insights.",
+         "Reports": "Allowed extracting detailed reports on the appointments, client information, payments, revenue, and more for the selected date range. With both pre-setup reports as well as custom options for users to design their ad-hoc reports.",
+         "Calendar synchronization": "With required plug-ins from Gmail, Outlook, or other email service providers we enabled the calendar synchronization feature to block the schedule. It included Social Media integration as well to allow receiving real-time notifications for new appointment bookings and check schedules from the device of choice."
+      },
+      "technology_used": [
+         "ASP.NET MVC",
+         "Angular",
+         "React Native",
+         "Microsoft SQL Server"
+      ],
+      "other_details": {
+         "Capability": "Product Engineering",
+         "Industry": "Healthcare",
+         "Country": "US"
+      }
+   },
+   {
+      "title": "Real-time Digital Ad Inventory Management Software Modernization",
+      "about": "A France-based leading outdoor advertising company wanted to streamline and upgrade its ad inventory system. With the legacy approach, they had to manually manage the process across multiple disparate systems, which was both time-consuming & costly.",
+      "key_features": {
+         "Key Features": "The re-engineering advertising inventory management software today integrates data from multiple disparate systems to track ad placement orders based on their live status and across diverse regions, from selection to delivery over a simplified user interface.",
+         "Smart intake": "A form that extracts data from various types of order formats while converting it to a standard, manageable and structured format",
+         "Amalgamated order fulfillment": "An integration of supplier systems that provides insights into delays, lead times, and confirmed delivery dates",
+         "Integrated order delivery": "Provides updates on delivery dates, status, notification alerts on delay, and real-time impact/update on inventory & hence planning",
+         "Real-time order monitoring": "A command center that provides a high-level overview of ad order inquiries and their placement/delivery status along with inputs on missed opportunities"
+      },
+      "challenges": [
+         "No system to perform high-volume data processing in real-time\nNo live tracking of available inventory\nNo proper insight on advertising inventory management\nBooking response time across the process was low"
+      ],
+      "solutions": {
+         "Solution": "Team Rishabh modernized the legacy digital ad inventory management solution that could process millions of data sets to offer inputs in real-time, enhances inventory use, and addresses many bookings simultaneously. As the preferred big data solutions provider, we used the digital-first strategy to re-engineer the existing system into a customer-centric system.",
+         "Central repository for inventory data": "Using JSON, we created a data lake to store, manage & track inventory data in the required format & structure for real-time inventory availability resulting in enhanced ad bookings.",
+         "Cross-media integration": "Regardless of many booking channels, we integrated different media types into the ad inventory management software to increase revenue growth.",
+         "Cloud integration": "We recommendedAWSas the most flexible and secure fundamental services platform to the customer for networking, storage, and computing. The revamped ad inventory platform consists of several microservices running on Amazon Elastic Compute Cloud (Amazon EC2) instances. we implemented a master-slave architecture to support the infrastructure and manage many requests.",
+         "Data engineering in cloud": "Leveraging technologies like Apache Kafka & Apache Zookeeper, we put the unstructured data to work and equipped the solution to handle high-volume data from different locations."
+      },
+      "technology_used": [
+         "Kafka",
+         "Json",
+         "ZooKeeper",
+         "PHP",
+         "Spring",
+         "AWS",
+         "Amazon-EC2"
+      ],
+      "other_details": {
+         "Capability": "Enterprise Software",
+         "Industry": "Advertising",
+         "Country": "France"
+      }
+   },
+   {
+      "title": "Web-based E-Learning Platform Modernization",
+      "about": "Our client offers digital learning solutions for primary school students over a dedicated platform. They wanted to expand their presence across the Australia region while modernizing their web-based eLearning platform with newer features. This would simplify the learning delivery process and offer the right insights for teachers & parents.",
+      "key_features": {
+         "Key Features": "The revamped and fully responsive cloud-based e-learning platform today supports the schools to enable students with an engaging curriculum that is aligned and targeted to their individual needs.",
+         "Active learning": "Blends exciting elements of animation & gameplay to create an interactive & immersive learning experience. This makes the learning process fun yet effective with solutions like mind mapping, decision-making & avatar-based games.",
+         "Reporting and analytics": "Detailed dashboards offer a holistic view of priority tasks while tracking progress as per the learning objectives. Helps teachers design learning programs to improve knowledge outcomes & enable parents to assess the ward\u2019s performance.",
+         "Automated alerts & notifications": "Automates varied communication ranging from sending assignments and exam calendars to assessments and real-time feedback \u2013 helping teachers & parents stay updated on student activities & schedules.",
+         "Staff management & scheduling": "Helps keep essential information about teachers at hand, including their availability, leaves, timecard hours, log notes, electronic documents, assessments, payroll records, promotions, and more."
+      },
+      "challenges": [
+         "Limited/no scalability for data management with the legacy solution\nNo proper reporting mechanism for teachers & parents on student progress\nManual and cumbersome method of providing lessons, assignments, and exam assessments\nLimited capabilities to offer an interactive and engaging learning experience"
+      ],
+      "solutions": {
+         "Solution": "To offer seamless cross-platform support across devices, we recommended upgrading to .NET Core from the existing MVC architecture. Being 30% faster, it enabled fastermodernizationof the digital e-learning platform for the four user profiles \u2013 teacher, parent, child & admin. Our team followed Onion Architecture and follow coding best practice principles (e.g. DRY, KISS) to ensure proper code maintenance in the future and avoid code duplication challenges. The upgraded online learning platform for primary school now enables digital management of all processes \u2013 from key administrative functions & communication to attendance monitoring & performance tracking.",
+         "Intuitive features": "For the defined user profiles, we enhanced the application with newer elements;Teacher: Lesson tracker, class management and more.Parent: Curriculum overview, student progress reports and more.Child: Gamified and character-centric learning with real-time assessment.",
+         "Cloud migration": "Withcloud scalabilityas the priority, the Rishabh team consulted the client to go withMS Azureas the cloud computing platform for data management across the connected portals. Originally developed in .Net MVC, this migration helped them better leverage Microsoft\u2019s ecosystem capabilities.",
+         "Improved UI/UX": "TheAngularframework helped improve the platform functionality and incorporate the role-based rules to accurately map the business and technical requirements.",
+         "Payment gateway integration": "Utilized Stripe as the payment processing platform to automate the billing process for the web-based eLearning platform with invoicing & payment status for easy financial reporting."
+      },
+      "technology_used": [
+         "Angular",
+         "MS Azure",
+         "Azure Blob Storage",
+         "Azure SQL",
+         "Azure Traffic Manager",
+         "Azure Virtual Machine",
+         "C#",
+         ".NET Core",
+         "MS SQL Server"
+      ],
+      "other_details": {
+         "Capability": "Enterprise Software",
+         "Industry": "EdTech",
+         "Country": "Australia"
+      }
+   },
+   {
+      "title": "eCommerce Platform Modernization",
+      "about": "Our client offers omnichannel commerce and merchandise lifecycle management solutions for retail enterprises to streamline operations & deliver seamless experiences. They wanted to modernize their 15 year old legacy eCommerce platform with newer features to increase their market share, drive revenue and boost customer engagement.",
+      "key_features": {
+         "Key Features": "The revamped and fully responsive eCommerce PaaS platform now serves as an engaging and scalable solution with robust features and functionalities.",
+         "Improved search mechanism": "Delivers intuitive shopping experiences to help shoppers find the relevant products & display recommended items as per on-site behavior.",
+         "Payment gateway integration": "Fast, smart & highly secure payment gateway to make it easy for customers to pay, ensuring you don\u2019t lose any business, at any time.",
+         "Product catalog management": "Consolidates product inventory in a single place to ensure you have consistent and up-to-date catalogs across channels.",
+         "Promotions management": "Helps admin easily manage catalog price rules, discount & reward prices, shopping cart prices & automate promotional activities."
+      },
+      "challenges": [
+         "Tightly coupled frontend & backend\nSlow performance as a large part of the queries took longer to run\nHigh maintenance cost\nPoor relevance for search results both in type-ahead and searches\nDisparate data sources"
+      ],
+      "solutions": {
+         "Solution": "For themodernizationof the eCommerce platform, we collaborated with the client to map the business and technical requirements. The first step was migration to a microservices architecture using Spring Micro-API from Strut \u2013 java servlet API & MVC-based architecture. By reusing about 70% of older components, we upgraded the functionality of their eCommerce platform to improve sales.",
+         "Front end interface": "Enabled functionality and business rules by moving toAngularfrom JSP that allowed the users to perform master/operational data management.",
+         "Data migration": "Seamless business data migration of end clients that includes product information, transactions, order history, categories & more.",
+         "Improving search algorithm": "Our team worked to redesign the search for the platform by reindexing the categories, parameters & \u00a0more. They extensively rewrote the code and rewired the code scripts. Further, they utilized third-party APIs to enhance the capability of the search tool to address future development needs as the site expands and evolves.",
+         "Payment gateway integration": "Supported extending the capability by integrating modern & leading platforms to support accepting payment modes for domestic and international cards, UPI, net banking and wallets."
+      },
+      "technology_used": [
+         "EJB",
+         "Hibernate",
+         "JAVA",
+         "Angular",
+         "Lucene",
+         "My-SQL",
+         "Spring"
+      ],
+      "other_details": {
+         "Capability": "Digital Experience",
+         "Industry": "Retail",
+         "Country": "USA"
+      }
+   },
+   {
+      "title": "Digital Ad Order Management System Modernization",
+      "about": "Our client helps brands build meaningful interaction and scalable communication across digital advertising screens. They wanted to modernize their 2 decade-old legacy solution that managed booking, contracts & invoices of assets across 100+ locations.",
+      "key_features": {
+         "Key Features": "Backed by an extensive experience insoftware developmentfor advertising & digital businesses, we helpedreengineerthe online ad booking and order management system that today offers a holistic view of operations \u2013 from inventory to asset owner management at one go.",
+         "Network & unit visual planner": "Display all standard and dynamic units (and their networks) with map location, asset category, frame type, rate card & availability status to help customers find the display slot they need, faster.",
+         "Portfolio management": "Ease of managing multiple portfolios of digital screens across varied properties, like malls, bus stations, airports & more within the system for easy discovery & planning of inventory.",
+         "Booking & contracts": "Enables ease of booking for multiple properties with real-time status & reminders for blocked sites with pricing & related information. Helps track payments, invoicing, credit and debit notes, party ledgers & revenue with a country-based configuration.",
+         "Intelligent reports": "Gain granular visibility into accounting, contract management, and media management to accurately analyze business performance with Jasper-based reports & improve accountability with real-time dashboards & data visualizations."
+      },
+      "challenges": [
+         "No real-time visibility into asset bookings across distributed geographies\nNo single source of truth due to multi-database roles, logins, profiles, and user management\nErrors while managing booking requests and invoices in different currencies for varied units and networks\nRedundant work for collecting and organizing the bookings, contracts, and invoices into a unified, easy-to-access location"
+      ],
+      "solutions": {
+         "Solution": "Team Rishabh followed the agile methodology for development starting with a 3-week sprint. The defects and enhancements were prioritized and finalized by the functional team with complete requirements documented on JIRA. The process focused on the following key aspects;",
+         "Implementation architecture": "To do away with data silos, the updated asset booking management app was seamlessly integrated with the following external systems:",
+         "Implementation of web services": "Our team utilized REST API services to make integrations simple and scalable with different web services as listed below;",
+         "Analytics": "Curated datasets with geospatial data streams to pinpoint audiences to help offer better planning & management of inventory to push the right messaging to the right audience at the right time & for the right location. Work with a data-driven, low granularity approach towards OOH analytics to analyze spending vs campaign ROI."
+      },
+      "technology_used": [
+         "Eclipse",
+         "Jboss",
+         "Java",
+         "Kafka"
+      ],
+      "other_details": {
+         "Capability": "Enterprise Software",
+         "Industry": "Media & Entertainment",
+         "Country": "France"
+      }
+   },
+   {
+      "title": "Enterprise Content Management Software Modernization",
+      "about": "With more than 10,000 users across the globe, the client provides enterprise web content management frameworks to organizations with needs across content creation, storage & publication on various web-enabled channels. They were in pursuit of a development partner to help seamlessly transform their legacy ECM system for a modern digital workplace.",
+      "key_features": {
+         "Key Features": "Rishabh helped with ECMsoftware modernizationto support the addition of the most beneficial features of Digital Asset Management (DAM), Product Information Management (PIM) & headless CMS. This enables the end customers (typically marketing teams for web development and content marketing) seamlessly create and manage text and media content on their website.",
+         "Social sharing & file storage": "Easily sort through large media files & instantly share content from your preferred digital channels to LinkedIn, Instagram, Facebook, Twitter & more.",
+         "Multiple product information catalog": "Create your product catalogs and tell a consistent story across channels where you can acquire, manage & share any type of information.",
+         "Text & image watermarking": "Configure & define a digital watermark across texts and images to protect assets and ensure brand consistency across channels.",
+         "Advanced download options": "Crop, zoom and adjust the image quality of images & set them according to the required height and width before downloading them."
+      },
+      "challenges": [
+         "Traditional and Outdated UI/UX\nLimited device support with a non-responsive app website\nNo integration with ERP and CRM\nLimited third-party system support & lack of plug-ins\nLack of social media integration\nNo multi-site functionality support"
+      ],
+      "solutions": {
+         "Solution": "Team Rishabh assisted with content management system modernization to;1) Enhancing the DAM and PIM over the current functionality within the application to improve customer experience.2) Implementing a headless CMS architecture approach to support multi-site and multichannel support.",
+         "Digital asset management": "Organize, collaborate & distribute visual media from within one central library to easily manage any type of digital file across an organization.",
+         "Multi-site management": "Easily manage websites, microsites, landing pages & single-page applications with content management authority given to users.",
+         "Product information management": "Manage large amounts of product information & efficiently distribute it across channels to provide users with easy access to a company\u2019s product information.",
+         "Multiple RESTful API": "The application has a clear separation of layers, and reusable components have an easily scalable backend in a decoupled way with GUI & can function even in case of service errors."
+      },
+      "technology_used": [
+         "Apache-Tomcat",
+         "AWS2",
+         "HTML",
+         "Java",
+         "My-SQL",
+         "Oracle-Database",
+         "PostgreSQL",
+         "Jsp"
+      ],
+      "other_details": {
+         "Capability": "Digital Experience",
+         "Industry": "IT",
+         "Country": "Japan"
+      }
+   },
+   {
+      "title": "Human Error Detection Software Solution",
+      "about": "The client helps organizations analyze, assess and determine the human committed errors with a robust and sustainable system with effective Corrective and Preventive Actions (CAPA). They were in pursuit of a technology partner to digitize the investigation management mechanism with a modern web interface.",
+      "key_features": {
+         "Key Features": "Rishabh enabled the client by developing Human Error Solution Software (HESS) to serve the highly regulated pharma industry. It helps improve human reliability, product quality, achieve regulatory compliance, and reduce risk.",
+         "Problem & investigation management": "View, list, search, approve, store, discard, and download the list of problems with multiple problem types that can be filtered by investigation ID, issue type, date, status & other relevant parameters.",
+         "Dashboard & reports": "Drive a culture of continuous improvement by generating reports that help resolve quality issues, avoid recurrence, execute containment actions and validate the efficacy of root cause elimination.",
+         "Workflow & task management": "Automate & streamline a proper workflow for corrective and preventive actions to close issues on time and ensure consistent quality and strict compliance at every step of the quality control process.",
+         "Alerts & notifications": "Faster issue management & acceleration of CAPA cycle time by addressing quality issues quickly and efficiently. Offers real-time collaboration for investigations with an update on reviews, approvals, action plans and schedules."
+      },
+      "challenges": [
+         "Absence of dedicated technology-based HE detection and investigation platform\nAddressing the wrong issues due to inadequate investigations\nInsufficient root cause analysis\nIneffective Recommendations System\nProductivity loss & customer dissatisfaction"
+      ],
+      "solutions": {
+         "Solution": "As anenterprise software developmentpartner, we helped automate the manual process for HE tracking with a dedicated system and beyond conventional QMS. The process focused on two essential aspects; 1) Mapping of Error Code on the System 2) Creation of Operational Configuration management framework.",
+         "Defining configuration framework": "Helped the client rectify and improve upon their product quality by configuring, implementing and integrating the following tools & adhering to compliances:",
+         "Authorization & role permission management": "Provided architectural guidance and implemented best practices to help streamline and automate the flow of data between crucial operational management systems along with an identity management database for:"
+      },
+      "technology_used": [
+         "SQL-Server",
+         ".Net Core"
+      ],
+      "other_details": {
+         "Capability": "Enterprise Software",
+         "Industry": "Healthcare",
+         "Country": "India"
+      }
+   },
+   {
+      "title": "Anime Streaming App Development",
+      "about": "As a media & entertainment conglomerate, the client was looking to launch a new over the top (OTT) media service platform to offer a unique experience with streaming of anime-centric content. We developed an end-to-end entertainment streaming platform to offer a personalized viewing experience to their users. With a subscription-based video streaming services model, it offers anime community-focused content across all age groups.",
+      "key_features": {
+         "Key Features": "The custom-developed anime OTT streaming platform helped gain significant user engagement in no time. It enables the managing and processing of thousands of user requests seamlessly without affecting the performance of any subscriber across the globe.",
+         "Video library management": "Acts as a central hub for accessing, organizing, uploading & managing anime video HD content with 100% control of TV shows and movies with on-demand sorting/categorizing options.",
+         "Watchlist": "Allows channel subscribers to create their custom list of videos, movies, and TV shows for binge-watch. A periodic notification on the home screen at regular intervals reminds users to revisit their watch-later list.",
+         "Smart search": "Users can easily find what they are looking for with the relevant search results in the blink of an eye. Anime movies, TV shows & other video content can be accessed with selected genres such as drama, action, fantasy, games & more.",
+         "Secure payment gateway": "Provides platform users with multiple subscription plans to opt for a monthly/annual plan to access, view, and download content across devices.\u00a0Multiplepayment gateway integrationshandle unique requirements of recurring billing as set by the user via debit cards, credit cards, direct bank transfers, e-wallet apps and more."
+      },
+      "challenges": [
+         "No single platform to upload & manage videos across a variety of dynamic filters\nIntegration with major payment gateways\nProvide crash-free & high video streaming quality to the worldwide users\nMultiple language support"
+      ],
+      "solutions": {
+         "Solution": "With our experience indeveloping VOD applications, we developed an on-demand video streaming app with multi-language support that caters to varied user requirements across different regions while expanding the reach beyond geographical borders.",
+         "Ingestion and uploading": "Developed a cloud-based fully functional video streaming app that meets the rapid and changing needs while keeping the solution seamlessly scalable. It allowed easy upload of numerous large files in different formats in a fraction of time to quickly reach the target audience.",
+         "Wireframes, UI & prototypes": "Created wireframes for the proposed designs that highlight top-notch features & functionalities for developing a custom entertainment app. Designed the UI component that blend minimalism with vibrant colors and other design elements to provide a fantastic user experience.",
+         "Admin panel": "Offers robust controls over user accounts, with interface, subscription & genre management. Enables seamless management of all administrative tasks inquiries, payment statistics, catalog updates & more.",
+         "Analytics dashboard": "Evaluate both viewing behavior and stream quality to get a 360-degree view of how the content performs across various audiences, destinations, and devices. It helps make informed decisions by comparing real-time insights with historical data."
+      },
+      "technology_used": [
+         "Laravel",
+         "Angular",
+         "Node.js",
+         "AWS"
+      ],
+      "other_details": {
+         "Capability": "Product Engineering",
+         "Industry": "Media & Entertainment",
+         "Country": "Saudi Arabia"
+      }
+   },
+   {
+      "title": "CI/CD Automation & DevOps Implementation",
+      "about": "Our client wanted to containerize, optimize, automate infrastructure and application deployments to provide automation and offer programmatic trading for media sellers and buyers. They were committed to adoptingDevOpspractices with an agile methodology by utilizing industry standards & automation to meet their SDLC optimization goals for delivering software faster & reliable manner.",
+      "key_features": {},
+      "challenges": [
+         "Integration of different/distributed teams\u2019 deliveries from coding to deployment\nLack of tools and technologies required for solution development\nHow different versions of the same product can be developed, build and tested independently\nSelection of project management methodology\nBuild environment agnostic artifacts"
+      ],
+      "solutions": {
+         "Solution": "By combining the development (Dev) and operations (Ops) specialists\u2019 efforts, our team\u2019s primary goal was to automate continuous deployment with features, fixes and updates that were aligned with the customer\u2019s business objectives.",
+         "Collaborative code management": "Different environments (DEV, INT, UAT, PROD and more) were created using Infrastructure as Code (IaC) which enabled the development, QA team and Client to use their respective environments and different versions of the same product. IaC also offered easy maintenance and audit of infrastructure.",
+         "Real-time monitoring and alerts": "Complete visibility of pre-built reports & dashboards and exceptions-based alerts/notifications, the development team can always ensure release quality and process compliance. The notification and alert services ensured that every stakeholder was aware of the progress of product development and related issues.",
+         "Continuous delivery automation": "With CI/CD pipelines set up on AWS, we ensured centralized code management to maximize fault isolation and prevent them from affecting each other.",
+         "": "No paragraph found for this heading."
+      },
+      "technology_used": [
+         "Xcode",
+         "Maven",
+         "Gradle",
+         "Docker",
+         "Apache-Ant",
+         "Bitbucket",
+         "GitLab",
+         "GitHub",
+         "Azure",
+         "AWS",
+         "Kubernetes",
+         "Nagios",
+         "Monitor",
+         "Datadog",
+         "Puppet",
+         "Chef",
+         "Ansible",
+         "JIRA",
+         "Confluence",
+         "Jenkins",
+         "DevOps-Isomatrics",
+         "Azure-Pipelines",
+         "Apache-JMeter",
+         "BlazeMeter",
+         "Burpsuite",
+         "Selenium",
+         "Wireshark"
+      ],
+      "other_details": {
+         "Capability": "DevOps",
+         "Industry": "Advertising",
+         "Country": "UK"
+      }
+   },
+   {
+      "title": "Therapy Practice Management System Modernization",
+      "about": "Our client wanted tomodernizetheir existing medical practice management system to reduce the paperwork. The system would automate the process of patient bookings, appointment scheduling, document management and bill payments.",
+      "key_features": {
+         "Key Features": "The re-engineered practice management solution helps manage patient visits and schedules for therapists.",
+         "Best-in-class security": "Helps detect and remove possible security threats with timely updates that respond to attacks.",
+         "Powerful API": "Seamless integration of existing sales tools. It includesEHR/EMR systemsor clinical workflows for faster and easy convenience.",
+         "Easy content updates": "Ability to update new content on the website without the help of any developer.",
+         "Comprehensive platform": "A single platform to combine all business needs. It simplifies tasks, improves communication and assists collaboration."
+      },
+      "challenges": [
+         "Difficult to manage 20+ therapy documentation forms\nCustomize the existing system without affecting its performance\nA large disconnect between scheduling and billing systems\nNo customized and on-demand report generation"
+      ],
+      "solutions": {
+         "Solution": "We converted the old server-based system into a secure, scalable and cross-device compatible app. It helps both therapists and admins to manage documentation of patient visits & appointment schedules.",
+         "Centralized multi-site management": "It enables the system to run all their sites on a single code base. It provides consistency, streamlines maintenance and promotes smooth content sharing.",
+         "Third-party integration": "Integration with new technologies and channels that functions as a unified digital platform. It delivers a unique patient experience.",
+         "Optimized administrative process": "A highly customized administrative system where content admins can rearrange page layouts without code adjustments.",
+         "Improved web accessibility": "Access to a broader audience with information sharing across a wide range of devices. It enables them to interact with patients who need physical disability treatment or admission."
+      },
+      "technology_used": [
+         "Drupal",
+         "PHP",
+         "mysql",
+         "apache"
+      ],
+      "other_details": {
+         "Capability": "Product Engineering",
+         "Industry": "Healthcare",
+         "Country": "USA"
+      }
+   },
+   {
+      "title": "Cloud-based Workplace Health and Safety Management Software",
+      "about": "Our client wanted a solution to manage risk and compliance in the workplace. It would be a unified platform to monitor multi-worksite locations and transient workers. The cloud-based WHS management software helps improve health & safety performance.",
+      "key_features": {
+         "Key Features": "The integrated workplace health and safety management software with web and mobile interface supports businesses with effective control of their safety, risk and compliance issues.",
+         "Health & safety compliance": "Eliminates health and safety risks by adhering to standards like AS/NZS 4801, AS/NZS ISO 14001, AS/NZS ISO 31000, AS/NZS ISO 9000 and AS 1885.",
+         "Unified business processes": "A centralized platform helps streamline audits, compliance, risk, training and document management.",
+         "Online training modules": "It offers easy configuration of custom training schedules to the staff as per the requirement.",
+         "Workflow automation": "High level of accuracy and transparency for the leadership team on health and safety practices adherence."
+      },
+      "challenges": [
+         "No proper system to identify hazards at the workplace\nInaccurate registration of safety risks and hazards\nNo tool for staff competencies training matrix\nLack of multi-site management to engage teams across different locations\nInaccurate compliance report generation"
+      ],
+      "solutions": {
+         "Solution": "A SaaS-based workplace health and safety management software helps organizations increase employee safety by automating the workflows. It eliminates manual compliance paperwork and minimizes the business risk exposures.",
+         "Role-based access": "Assigns user roles to each person that determines the level-based access rights and permission to the system\u2019s various modules. It provides a high level of data integrity.",
+         "Incident reporting & management": "The workplace safety software notifies and alerts top management about the hazards. It further assigns an investigator to the incident and closely monitors the status.",
+         "Workplace inspections & compliance logs": "Assess risk, record & report hazards, and assign corrective actions. It provides registers such as hazardous chemicals, manual tasks, plants and contractors to manage compliance.",
+         "Training management": "The workplace training ensures that employees have the required competency, skills and knowledge for the assigned duties. It aims to meet legal compliance requirements that play an essential role in workers\u2019 health and safety."
+      },
+      "technology_used": [
+         "Java",
+         "jquery",
+         "mysql",
+         "angular-js",
+         "Android",
+         "iOS"
+      ],
+      "other_details": {
+         "Capability": "Cloud",
+         "Industry": "Healthcare",
+         "Country": "Australia"
+      }
+   },
+   {
+      "title": "Real Estate Web Portal Development",
+      "about": "The real estate company was on the lookout for developing a user-friendly yet robust property portal. It would connect agents, buyers and sellers over a single platform.",
+      "key_features": {
+         "Key Features": "The real estate portal caters to the need of users and helps the client grow their business reach exponentially. It allows agents, property owners and customers to list & address sale/rent out from the different options.",
+         "Smooth property listing process": "Easy registration and plotting of available property details. It covers multiple categories for rent & sell for property owners & agents",
+         "Advanced search for available options": "Help users find relevant places easily. The integration of Google maps allows tracking of the exact property location",
+         "Social media integration for event updates": "Allows sharing of available property deals, upcoming property fairs and more via social media channels for the registered users",
+         "Enhanced user experience": "People get a 360\u00b0 showcase of properties with multi-language support for a real-life walkthrough of the available options"
+      },
+      "challenges": [
+         "Lack of the right user & content management tool to manage huge traffic of over 100,000 visits\nThe slow rental booking process from B2C and B2B standpoint\nLack of smooth management resulting in time-consuming back-end system management & poor user experience\nNo unified platform to help the stakeholders connect and operate efficiently"
+      ],
+      "solutions": {
+         "Solution": "By utilizing Microsoft technologies, the Rishabh team planned, designed, developed and deployed the real estate portal. It comprised of modules for centralized administration, property listing and user management.",
+         "Agile methodology": "We took a continuous delivery model approach. We divided the project into phases to address backlogs and optimize productivity for the involved teams.",
+         "Alerts & notifications": "The integration of the alert mechanism helps push updates & notifications about the newly available property options, bids and more.",
+         "Connect with business systems": "Our team also covered the integration of essential business functions as part of the real estate web development focus. It covers digital payment gateways, property maps, user registration & subscription, loan calculator and more.",
+         "Reporting and analytics": "Admin can generate dynamic reports as per the need. It includes info about properties, users and more. Charts, graphs & other visualization options help with real-time insights to identify the potential trend and formulate strategies."
+      },
+      "technology_used": [
+         ".Net Core",
+         "Visual Studio",
+         "Azure",
+         "MS SQL Server",
+         "Bootstrap",
+         "HTML5 and CSS3"
+      ],
+      "other_details": {
+         "Capability": "Digital Experience",
+         "Industry": "Real Estate",
+         "Country": "Switzerland"
+      }
+   },
+   {
+      "title": "AR-based Product Visualization App Development",
+      "about": "Our client wanted to leverage AR (Augmented Reality) for product visualization. While user experience was the core of product roadmap planning, it would improve customer engagement and hence sales conversion.",
+      "key_features": {
+         "Key Features": "We developed aniOS-based application. It offers a gamified virtual experience. Users can select the designated area and try out the building elements \u2013 the color, design pattern and more. The app lets them explore product placement in a virtual environment before making the actual purchase decision.",
+         "Easy object prototyping": "AR product visualization offers smooth plotting of objects. It helps obtain precise design inputs about the components and realize changes in real-time",
+         "Saves time & costs": "Virtual customization offers easy on-the-go pricing estimation to make faster buying decisions",
+         "Product catalog on-the-go": "End-users can try out different color, design and structural options from the comfort of their home",
+         "Improved product search": "Enables easy capture of products to conduct a visual search. It helps for quick comparison & display with the exact or closest product match"
+      },
+      "challenges": [
+         "Limited/no experience to select the best AR platform that appeals to the target audience\nNo mechanism for rendering the products in real-time\nLack of IT enablement to build such augmented reality app with integration capabilities and varied components\nNo customer data on preferences collected digitally that could be leveraged"
+      ],
+      "solutions": {
+         "Solution": "Rishabh\u2019s teamdeveloped a mobile appto offer Augmented Reality for product visualization using OpenCV technology. The application helps engage users using gamification and personalization features.",
+         "Mobile camera integration": "Customers can use the device camera to visualize a selected area within a virtual 3D object space. It offers a feel of the real world by fetching the info about the position and orientation",
+         "Real-time cost estimator": "Quick calculation mechanism to check the actual cost of adding and deleting features for building requirement",
+         "Hosting AR gallery": "A virtual store that allows users to interact with new and existing 3-D objects through the app. AR in interior design helps test & experience potential features for their home d\u00e9cor with active pricing information and offers",
+         "Social media channel integration": "Integrated social media apps to promote collaboration with unified customer experiences across people\u2019s network"
+      },
+      "technology_used": [
+         "iOS",
+         "MySQL",
+         "OpenCV"
+      ],
+      "other_details": {
+         "Platform": "iOS",
+         "Industry": "Manufacturing",
+         "Country": "UK"
+      }
+   },
+   {
+      "title": "Veterinary Practice Management System",
+      "about": "Our client wanted a cloud-based veterinary practice management software to simplify business and clinical procedures. The new healthcare portal today helps pet owners & doctors interact well.",
+      "key_features": {
+         "Key Features": "The veterinary management system helps simplify diagnostic capability, improve clinical processes & achieve business objectives.",
+         "Veterinary Information": "A single information system with a list of procedures, guides, information about the cure of diseases and best practices as per the veterinary practice standards",
+         "Digital board": "Thecloud-basedsoftware for veterinary practice management helps manage appointments, work schedules, business processes, billing and other information management tasks",
+         "Better communication": "Benefits like email, 2-way SMS & chat between veterinarians, pet owners and clinical staff to interact better & improve animal care",
+         "Access anywhere": "Vets can access the system from the clinic or at home to look at medical cases and payments"
+      },
+      "challenges": [
+         "No proper communication between doctors, clinics and pet owners\nPoor management of medical records such as lab results, digital images, ultrasound videos & more\nNo backend office support documentation"
+      ],
+      "solutions": {
+         "Solution": "A SaaS-based veterinary practice management software for better business growth",
+         "Combined management tools": "Better management of business processes for pet statistics, boarding calendar, HR, general register, reminders & more",
+         "Automatic work processes": "No manual payment and better communication between doctors and other clinics",
+         "Back-office management system": "Reports, inventory control, accounting & marketing features to lower errors",
+         "MVC structure": "The solution is part of MVC architecture with J2EE technology with EJBs on the server-side, XML/XSL used to create GUI and the servlets as controllers"
+      },
+      "technology_used": [
+         "JBoss",
+         "Java",
+         "jetty",
+         "PostgreSQL"
+      ],
+      "other_details": {
+         "Capability": "Digital Services",
+         "Industry": "Healthcare",
+         "Country": "US"
+      }
+   },
+   {
+      "title": "Automated Agile Testing To Modernize Legacy Application",
+      "about": "Our client wanted to automate the end-to-end testing module as part of their product modernization initiative. They wish to ensure continuous delivery while managing the growing customer requests for diverse housing needs across countries.",
+      "key_features": {
+         "Key Features": "By automating the entire agile testing process with Jira and other tools, the developed software was free from potential issues by eliminating them on-time.",
+         "Increased cost-efficiency": "Agiletest automationhelped property developer reduce the support staff dependency and focus on helping end-customers",
+         "Improved customer satisfaction": "Cross browsers and devices testing ensured a unified and optimum customer experience",
+         "Increased sales opportunities": "Schedule performance tests to run in an automated fashion and confidently handle increased customer traffic without the worry of a performance glitch, even during the peak buying season",
+         "Reduced QA costs": "By running all your tests on a single platform using Jira automated testing tool, QA costs were significantly reduced while ensuring top quality"
+      },
+      "challenges": [
+         "Customer dissatisfaction due to inadequate site navigation\nCost & schedule overruns with multiple teams\nCompetitive threat with poor estimations\nAd-hoc updates to the centralized system\nLack of standard process for testing"
+      ],
+      "solutions": {
+         "Solution": "The legacy system was transformed into a centralized web- solution covering all aspects ofsoftware testing, from usability to performance with multi-lingual capability and security. Utilizing Jira\u2019s agile testing capability for automated QA process, we significantly improved product quality and delivery time.",
+         "Automated tests": "Automate the smoke and regression tests to immediately evaluate the impact of the changes made to the website",
+         "Faster bug fixing": "Through regression testing, we could trace the requirements, test cases & bugs. With every new release deployed, running automated tests using Microsoft Test Manager helped to spot and fix issues before going live",
+         "Intuitive platform interface": "With compatibility testing best practices on desktop, smartphone and tablets, we ensured seamless user experience with the right assessment of an existing-working combination of software, protocols, hardware, and OS",
+         "Improved user load & future scalability": "Using Microsoft Coded UI for test automation helped analyze the platform to identify and rectify any performance issues by considering functional and non-functional use cases where the user load is expected to increase. This would ascertain whether the system is easy to scale up and accommodate future up-gradation"
+      },
+      "technology_used": [
+         "jira",
+         "visual studio",
+         "Microsoft TFS",
+         "Microsoft Test Manager - MTM"
+      ],
+      "other_details": {
+         "Capability": "Quality Assurance",
+         "Industry": "Real Estate",
+         "Country": "Belgium"
+      }
+   },
+   {
+      "title": "Machine Learning Driven Healthcare Monitoring System",
+      "about": "Creation of a system that offers real-time human activity recognition within the clinical systems to provide better diagnosis & treatment for critical care patients",
+      "key_features": {
+         "Key Features": "The ML-based healthcare monitoring system offers actionable insights to help collate the recorded data (historical & current health data sets) from various connected devices along with the patient\u2019s vitals.",
+         "Data collection": "Readings are collected from various sources, including historical records, prescription, wearable patient sensors, and even equipment such as arterial blood gas (ABS) analyzer, echocardiography, and more",
+         "Improved efficiency": "The simplified process helps convert varied data sets across different device protocols in a unified format for further analysis, reporting, diagnosis and, sometimes, treatment",
+         "Continuous monitoring": "The system classifies the activities performed & recorded by different patients in a continuous sequence \u2013 while they are sleeping, sitting, being fed, walking, and more",
+         "Centralized health management": "The AI-powered patient monitoring system offers real-time insights and alerts about health & performance, ensuring instant data interaction with actionable outputs"
+      },
+      "challenges": [
+         "No system in place to understand diverse device criticality and functionality\nManual & time-consuming to do analysis of historical & current data of the patients\nNo way to understand, diagnose and project next steps in patient-care in faster way\nNeed to offer real-time assistance for critical care patients"
+      ],
+      "solutions": {
+         "Solution": "We created ML-based data models for the connected devices to enable activity recognition through a secure & reliable patient health monitoring system. The model enables the medical care provider to record & analyze large data sets of patient health in real-time to make informed decisions.",
+         "Data set & deployment": "The data set was divided into observation cycle windows of one second with a 50% overlap and further deployed into the AI system at scale on users\u2019 devices",
+         "Smart data model": "The model extracts the data for the mapping & analysis of the patient\u2019s health status through connected devices, including a heart rate sensor, VO2, ECG, and more",
+         "Unified dashboard": "The customized interface helps incorporate metrics beyond traditional activity identification models, and creates dashboard based on various parameters such as gender, age, illness, treatment group, and more",
+         "Predictive analysis": "It enables doctors to easily track & identify patterns of multiple patient activities and define an accurate, pre-emptive diagnosis of ailments"
+      },
+      "technology_used": [
+         "AWS",
+         "Keras",
+         "Python",
+         "Tensorflow"
+      ],
+      "other_details": {
+         "Capability": "Analytics",
+         "Industry": "Healthcare",
+         "Country": "UK"
+      }
+   },
+   {
+      "title": "User-Friendly Homecare Provider Portal",
+      "about": "As a revolutionary care providing company, the client wanted to develop an ideal home care portal to act as a marketplace for carers & care seekers. The solution should help older adults to search, shortlist, pay, and receive care from the caregivers of their choice.",
+      "key_features": {
+         "Key Features": "Rishabh developed an intuitive web-based portal supported by a mobile app to help the adults (60 and older) search, shortlist and hire affordable & suitable carers. At the same time, the platform provided opportunities for the carers to increase their clientele and hence business.",
+         "Sleek interface": "Elder-friendly design allows geriatrics for a comfortable & secure signup to search for caregivers in their locality with various filtering options such as gender preference, experience and care type with ratings & reviews",
+         "Smooth communication": "24\u00d77 coordination through in-built messaging between the carer and client with a secure information exchange",
+         "Workflow management": "Streamlined validation of care providers along with on-the-go creation of contracts that details the hours of work tasks as per the shift",
+         "Faster payments": "Instant payouts, even on weekends and holidays, through payment mechanism for caregivers for immediate payment after the care shift or contract is over"
+      },
+      "challenges": [
+         "Difficult to map the right user experience for the elderly care seekers\nManual and complicated agreement processes\nNo digital mechanism for verifying care provider\u2019s certification & qualification documents\nNo solution to help manage low cost of geriatrics care while maintaining good agent commission"
+      ],
+      "solutions": {
+         "Solution": "We developed aDrupal-basedsolution that eliminates the time gap of finding the right carers for the elderly by almost 90%. The solution ticked off all the criteria of being new-age, smart & user-friendly.",
+         "Mobile apps": "Thecross-platform mobile appstargeted for Android & iOS platforms made it easy for both the care providers & care seekers to connect and get the last mile accessibility",
+         "Caregiver profile validation": "Two-level online reference check of carer\u2019s contracts, DBS & PVG checks, work validity to offer the best of carer services",
+         "Caregiver\u2019s dashboard": "Live web-based dashboard with color-coded tags for shift status and weekly/daily view option assists care providers to stay on schedule and monitor geriatric care to take on necessary actions",
+         "Admin panel": "Helps review, approve/reject carer application, manage their accounts & client profiles and handle all administrative tasks while using CRM, analytics like tools to grow the business value"
+      },
+      "technology_used": [
+         "Drupal",
+         "AWS",
+         "Bootstrap",
+         "Apache",
+         "Android",
+         "iOS"
+      ],
+      "other_details": {
+         "Capability": "Digital Services",
+         "Industry": "Healthcare",
+         "Country": "UK"
+      }
+   },
+   {
+      "title": "Digital Ad Order Management Solution with Data Analytics",
+      "about": "Our client is a leading outdoor advertising company with over a million digital advertising panels across the world. With a vision to reach a broader range of consumers, maximize inventory allocation and boost sales, the UK-based client approached us. We helped in developing an online advertising booking system by leveraging ourdata analytics capabilitiesthat would help them respond to booking requests immediately, leverage sales opportunities, and maximize revenue.",
+      "key_features": {
+         "Key Features": "The developed digital solution helps with efficient managing of bookings by leveraging analytics statistics from missed sales opportunities, predict trends, meet the needs when demand cycles peak and make more ad slots available.",
+         "Faster & timely data access": "Improve ad slots management and hence increase revenue opportunities with quick access of accurate data to the sales teams for better interaction with customers",
+         "Unlock new sales opportunities": "Allow teams to align and assess the emerging sales trends by analyzing market movements and determining market conditions",
+         "Increase customer acquisition & retention": "Engage in more meaningful conversations with data insights on customer buying patterns, customer preferences, previous customer feedback and ad slots buying habits",
+         "Central repository for global ad inventory management": "Effectively manage and address the inventory of ad booking requests generated across the centers with several digital ad panels to keep the costs optimized"
+      },
+      "challenges": [
+         "Unclear understanding of the real-time needs of the customer\u2019s business\nNo available integration of booking requests from multiple applications\nOverlapping and duplication of bookings with concurrent user access\nDelayed response time to bookings"
+      ],
+      "solutions": {
+         "Solution": "We developed acustom AdTech softwarethat provided a balanced inventory to meet increasing demand and allowed better controlling to spend for additional stock purchases. The ad order management system honored the strict business rules and predicted in real-time for the reshuffling of bookings. With a unique mix of software and hardware optimization, the servers were vertically scaled with a dynamic load-balancing cluster implemented for managing real-time bookings.",
+         "Ad slot booking with real-time management": "Responds to booking request immediately and allows you to address resources based on the global traffic efficiently",
+         "Ad inventory optimization": "Improves accuracy of ad inventory orders with a view of priority orders to help you save time and money while avoiding manual recount",
+         "Automated process": "Responds to inquiries immediately without spending time on managing the inventory for any panel, any region, any segment",
+         "Real-time advertising booking system": "Provides insights based on historical sales patterns to align and address current and future efforts to reduce the chances of stock-outs of slots or digital panels"
+      },
+      "technology_used": [
+         "Spring Boot",
+         "Redis",
+         "My SQL",
+         "Kafka"
+      ],
+      "other_details": {
+         "Capability": "Analytics",
+         "Industry": "Advertising",
+         "Country": "UK"
+      }
+   },
+   {
+      "title": "Re-Engineering of Meeting & Appointment Scheduling Software",
+      "about": "The customer with decades of experience serving the public sector, especially the local government and schools through technology, wanted tore-engineertheir legacy global event & meeting scheduling system with advanced features to improve its efficiency, scalability, with optimum security. While the maintenance of their legacy application was the primary concern, they were looking for a reliable solution to improve the system\u2019s performance.",
+      "key_features": {
+         "Key Features": "The re-structured meeting scheduling tool with advanced enhancements efficiently handles automated meeting planning and follow-up process with unlimited registrants.",
+         "Enhanced UX/UI": "The new intuitive dashboard facilitates authorized council members to access, review, approve or reject agenda items in real-time",
+         "Streamlined topics": "Saves time and money with a paperless process from topic submission through minutes publication",
+         "Automated agenda builder & organizer": "Create precise meeting agendas using simple drag and drop functionality. It allows attaching relevant documents, contracts, maps, charts and other content to support agenda topics",
+         "Eliminate data error": "Digital documentation reduces manual paper-based cumbersome tasks and eliminates potential risks of human error"
+      },
+      "challenges": [
+         "Complex structure of the existing meeting scheduling application\nNo document management and real-time document updating feature\nMigrate system database and source-code with minimum possible downtime\nNot so smooth user interface impacting app functionality adversely\nHuge product maintenance cost"
+      ],
+      "solutions": {
+         "Solution": "The modernized event & meeting planning software was a one-of-a-kind platform to provide seamless third-party integrations over a single solution. It offers consistent and optimal user experience across devices.",
+         "Agile approach": "Our team understood the existing code and created comprehensive documentation for the to-be product model to deliver the proposed solution on time by applying agile methodology practices and standards",
+         "Database migration": "The entire source code and all the digital contents and documents were migrated to the latest web technology framework with almost no downtime",
+         "Centralized event meeting scheduler": "Eliminate time-consuming tasks & streamline meetings by creating, planning and scheduling events efficiently through online application",
+         "Product performance enhancements": "We meticulously optimized application performance and solved potential issues by implementing anticipated features such as workflow management, improved document search, easy integration with a third-party solution and more"
+      },
+      "technology_used": [
+         "AngularJS",
+         "ASP.NET Core",
+         "Microsoft SQL Server",
+         "Jira"
+      ],
+      "other_details": {
+         "Capability": "Product Engineering",
+         "Industry": "IT Services",
+         "Country": "US"
+      }
+   },
+   {
+      "title": "Migration & Modernization of a Hotel Booking System",
+      "about": "The customer was seeking front-end migration of their hotel booking system from Silverlight to Angular as part of their digital transformation strategy.",
+      "key_features": {
+         "Key Features": "The modernized, secure booking engine now covers every aspect of a hotel reservation software. It made room-booking far more convenient for the customers and increased the profitability of the hotel.",
+         "Simplified booking": "Easy navigation enables travelers with a convenient option to register, cancel, or alter the individual/group bookings from a mobile or desktop platform",
+         "Easy to find information": "Distraction-free design helps reduce the challenge for searching details such as room descriptions, rates and amenities",
+         "Room inventory dashboard": "A centralized repository with real-time access to hotel information, room inventory and more while eliminating the discrepancies of rates and availability",
+         "Improved marketing avenues": "The optimized website helped increased conversion rates with enhanced upselling & cross-selling opportunities for in-built sales & marketing initiatives"
+      },
+      "challenges": [
+         "Migration of containers from outdated Silverlight to new-age Angular\nLack of support from Microsoft for legacy Silverlight technology\nComplex processes cross-border legal & currency aspects that need incorporation in the solution\nRigorous testing of the system performance and verification of API response with no in-house skill with client"
+      ],
+      "solutions": {
+         "Solution": "Rishabh\u2019s team made the application scalable, faster, user-friendly and secure. We thoroughly analyzed the existing application architecture, RESTful API contracts and then developed custom templates and containersusing Angularfor modernizing the hotel booking system.",
+         "Agile approach": "Executed the migration strategy with a top to down approach by keeping the process concise and addressing the common pain points for the ongoing transformation",
+         "Modernization": "We implemented multiple features supported by Angular / Typescript, including lazy loading, strict typing, model-driven API calls and more to make the application easier to use, test, maintain and evolve",
+         "Migration": "Analyzed the MVVM patterns that offer separation between app logic & UI to provide the same functionalities of the existing application with developed reusable components, followed by application testing & code quality review",
+         "Responsiveness": "The responsive layout helped offer a holistic hotel booking system, with interactive plug and play widgets, competitor\u2019s rate analysis tool, metasearch connectivity and more"
+      },
+      "technology_used": [
+         "Angular",
+         "kendo ui",
+         "HTML5",
+         "sass",
+         "Katalon Studion"
+      ],
+      "other_details": {
+         "Capability": "Product Engineering",
+         "Industry": "Travel & Hospitality",
+         "Country": "Brazil"
+      }
+   },
+   {
+      "title": "Optimizing Contingent Workforce Management",
+      "about": "The IT staff providing giant was on the lookout to transform their processes to procure and manage contingent workforce through a single point of accountability. They were seeking a reliable and modernizedweb-based solutionto integrate their different stand-alone solutions into one comprehensive end-to-end workforce management portal.",
+      "key_features": {
+         "Key Features": "The re-engineered solution helped streamline and simplify workforce management planning by putting together a complete suite of Managed Service Provider (MSP) solution.",
+         "Accessible anywhere anytime": "24*7 access to the scope of work (SOW), employer record, contractor compliance, employment screening, and more for increased visibility",
+         "Seamless user experience": "Improved user interaction to manage entire process end-to-end with least manual intervention and enhanced integrations.",
+         "Monitoring and management": "Real-time dashboard to help with status monitoring of workers with powerful automation capabilities",
+         "Workforce optimization": "Offers increased visibility and control into the operations of the workforce with detailed on-demand reports that helps in better workforce planning and allocation."
+      },
+      "challenges": [
+         "Unable to perform data optimization and migration\nLack of transparent and real-time data exchange between varied systems\nNo existing integration with client systems\nDull user experience due to outdated design"
+      ],
+      "solutions": {
+         "Solution": "The developed web-based application enables for better data movement, automated workflows, and seamless integration with the client system in-line with customer\u2019s vendor management needs.",
+         "Resource management": "Enables easy management of time spent across different activities along with payroll processing, employee screening, on-boarding, HR compliance, off-boarding, document management, and more",
+         "Redesign and optimization": "Enhanced user experience with optimum security protocols to identify & eliminate potential risks. Our team helped extract large volumes of data and streamline it\u2019s exchange",
+         "Contract & project management": "Optimized labor contracting through the automated and web-based project management mechanism packed with features like document management, contract administration, expense management, framework design and more",
+         "Application modernization": "Completemodernization of the softwareby streamlining the end-to-end scope of Work (SOW) / contract management with improved consistency and visibility into every aspect of labor spend. It also helped reduce compliance risk and increased transparency into project costs and deliverables"
+      },
+      "technology_used": [
+         "Microsoft SQL Server",
+         "Microsoft .NET",
+         "xml-logo",
+         "microstrategy-logo"
+      ],
+      "other_details": {
+         "Capability": "Enterprise Application Services",
+         "Industry": "IT Services",
+         "Country": "USA"
+      }
+   },
+   {
+      "title": "Modernizing Legacy Administration Management Solution",
+      "about": "The customer was seekingapplication modernization servicesfor their legacy administration management application to add new features & product enhancements for improving its performance, reliability, and scalability. Their legacy application, which was catering to approximately 250,000 clients per year, struggled to manage appointments, scheduling, invoicing, and report generation for varied medical services. It was with complex workflow, code maintainability, etc. leading to poor user experiences and revenue generation hitting below average.",
+      "key_features": {
+         "Key Features": "The re-engineered application helped streamline the pre-employment & annual medical assessment process, enable a smooth appointment scheduling for clients, and improve transparency between the service provider and the end-customer.",
+         "Enhanced UX/UI": "The new interactive UI facilitates users to make a one-click request for available services, book & manage appointments, generate invoices, and do a lot more efficiently",
+         "Improved workflow": "Allows smooth online scheduling of screening tests and background check on a proprietary EHR (Electronic Health Record) system",
+         "Eliminate data error": "Digital documentation reduces paper-based work and eliminates the potential risk of human error in recording business & customer data manually",
+         "Electronic reporting": "Clients can easily retrieve online results and review appointment reports using a dynamic report generation module"
+      },
+      "challenges": [
+         "Tightly coupled legacy application with intricate architecture and a large volume of data\nLack of proper documentation for the existing solution\nMigrating all the data and services from the old to the new server with zero application downtime\nPoor application performance due to complicated process flow\nThe time-consuming process of appointment booking leading to loss of clients"
+      ],
+      "solutions": {
+         "Solution": "The modernized solution was one-of-its-kind to provide multiple integrations of home health care into a single solution. It was with a streamlined workflow, and new features that enabled the customer to offer efficient primary care, and wellness services through a single platform.",
+         "Agile & waterfall methodology": "The approach of working with a hybrid model helped utilize the best of both to increase visibility across the project & deliver the proposed solution on time",
+         "Technology upgradation": "We leveraged modern technology stack to analyze & improve existing system processes and implement MVC architecture to future-proof the current application",
+         "Product feature enhancements": "We thoroughly optimized application performance and solved glitches with a complete rewrite of app functionalities and the implementation of new, anticipated features like EHR integration, dynamic workflows, advanced reporting and more",
+         "Database migration": "The enhanced version of the extensive, legacy database as per the defined criteria was an outcome of valiant efforts & dedication of our team"
+      },
+      "technology_used": [
+         "Microsoft .NET",
+         "aspmvc5-logo",
+         "jquery-logo",
+         "Microsoft SQL Server",
+         "ajax-toolkit"
+      ],
+      "other_details": {
+         "Capability": "Enterprise Software",
+         "Industry": "Healthcare",
+         "Country": "US"
+      }
+   },
+   {
+      "title": "Property Management Solution with Marketing & Sales Automation",
+      "about": "Earlier, with a Microsoft SharePoint based solution, the client was able to track and handle the property management tasks. However, the existing system failed to offer the right visibility into business processes. Our team did thorough analysis and developed an automated system with Dynamics 365 for sales & marketing functions to streamline operations and address the growing needs of customers.",
+      "key_features": {
+         "Key Features": "The re-engineered solution offered extensive service automation with a platform that enabled their end customer with search, buy, sell, and manage the properties online. This in turn empowered the client with insights on how to improve customer services.",
+         "Build better relationships": "Unified platform enabling seamless communication between end clients and real estate companies to view data, identify critical areas requiring enhanced processes, and make more informed decisions",
+         "Actionable customer feedback": "Pulls out data from survey responses to convert them into actionable insights to take necessary steps and improve customer experience further",
+         "Centralized database for lead mapping": "Helps grow customer portfolio with a wide range of property management services that helps form targeted and personalized communication with leads",
+         "Mobile lead management": "Easy access of lead data such as lead status, contact details, quotations, contracts, maintenance requests and more to the designated broker or property manager on-the-go"
+      },
+      "challenges": [
+         "Slow & outdated marketing and sales platform\nNo single portal to track property listing, contract management, and information about leads/inquiries\nNo efficiency mapping available\nLack of data transparency and customer insights\nComplex reporting hierarchy"
+      ],
+      "solutions": {
+         "Solution": "We mapped the existing business processes in-line with expectations, and leveragedDynamics 365for property management to create the lead (enquiry) management, customer management, and opportunity management modules. For on-demand and real-time reporting, we integrated the existing app with the current SharePoint solution.",
+         "Lead & enquiry management": "Smart tracking of property inquiries from web and prospects along with activity status. Easy to understand their preferences and customize the shortlisting of units by accessing prospect information",
+         "Opportunity management": "Streamlines the entire offer management process from contracts to payments to reserve property units for a predefined period. And, efficient management of shortlisted units helps to improve customer relationships and sales",
+         "Customer management": "Offers 360-degree insight into customer data, including customizable portals that provide their payment history, information on documents like contracts, renewal updates and more",
+         "Sales & rental management": "Active engagement with investors, brokers, and end-users helps fine-tune the sales, post-sales, rental and post-rental processes"
+      },
+      "technology_used": [
+         "Microsoft .NET",
+         "visual-studio",
+         "Microsoft-Dynamics-365-Commerce-App"
+      ],
+      "other_details": {
+         "Capability": "Product Engineering",
+         "Industry": "Real Estate",
+         "Country": "Australia"
+      }
+   },
+   {
+      "title": "Field Sales Management Mobile App",
+      "about": "To establish and grow relationships with prospects & customers, the client wanted todevelop a mobile-based solutionthat enables easy tracking of the organization\u2019s sales force to better plan, manage, and close deals by integrating their contacts, locations, and calendars for higher productivity.",
+      "key_features": {
+         "Key Features": "The developed tool aids individuals, sales teams, and organizations to build & nurture customer relationships within their network. It enables them to enhance their performance regarding sales and leads to boosted profits."
+      },
+      "challenges": [
+         "Management of massive influx and volume of customers\nThe complexity of managing multiple integrations\nSales force planning based on historical data only with no room for immediate changes\nNo real-time tracking of field sales individuals and hence no real-time updates"
+      ],
+      "solutions": {
+         "Solution": "The sales force management app\u00a0offers the field sales individual to work seamlessly with everyday business operations as part of today\u2019s competitive landscape.",
+         "Unified Single Mobile App": "Helps stay organized with meetings, events, and other account updates on the go with just one app, even enables joining conference calls with a tap, and record meeting notes while in motion while accessing and updating the CRM data anytime, even while offline.",
+         "Accurate Order Management": "Streamlining of daily sales or service activities enables routinely manage/approve sales orders without tracking salespeople down for order statuses",
+         "Seamless Pipeline Management": "The mobile dashboard offers automation of assembling, tracking the sales pipeline and management of opportunities beyond manual data entry",
+         "Multi-level Integration": "Extending the tool kit capability for sales teams with right third-party integrations with leading enterprise CRM Data and personal data"
+      },
+      "technology_used": [
+         "spring",
+         "wildfly_logo",
+         "MySQL",
+         "aws logo1",
+         "rest-logo",
+         "postman-logo"
+      ],
+      "other_details": {
+         "Platform": "iOS",
+         "Industry": "IT",
+         "Region": "US"
+      }
+   },
+   {
+      "title": "Ecommerce Solution Development & Maintenance Services",
+      "about": "The client was seeking acustomized commerce solutionthat could serve as a single platform between retail enterprises and their end-customers. This would help streamline the buying processes and build brand reputation through a transparent approach. As part of the mandate, they needed to develop a first-of-a-kind eCommerce platform and continuously improve its functionality by adding new, engaging features.",
+      "key_features": {
+         "Key Features": "A unified platform helps deliver fluidomnichannelexperiences enabling meaningful customer relationships, smoother business processes, and improved sales.",
+         "Personalized reach": "Personalized offers and discounts to customers at every touchpoint to motivate purchase while earning loyalty that eventually drive sales & profits",
+         "Merchandising": "Equip retailers with right pricing, distribution channels, and up-sell or cross-sell merchandise to delight customers and maximize business efficiency",
+         "Increased transparency": "Provide accurate, verified, and timely updates through constant first line support to enable data transparency and hence better decisions",
+         "Actionable analytics": "Leverage enterprise-wide data to analyze buyer trends and market forecasts for actionable insights and tighter control"
+      },
+      "challenges": [
+         "Siloed channels impacting inventory & order management\nLack of processing of large volume of data streaming from multiple sources\nInability to do enhancements and modifications without affecting system performance\nRestricted agility and flexibility of the in-house team to act on customer requirements\nHigh risk of data theft & hacking"
+      ],
+      "solutions": {
+         "Solution": "The unified solution helped the client simplify omnichannel retailing with total control over customer engagement, order & product management, andbusiness analyticsto elevate shopping experiences and increase profitability.",
+         "Agile approach": "Developed the solution that met the rapid and changing needs of our client by applying agile methodology practices and standards",
+         "Order management": "Developed a centralized module to manage all orders and inventory across various touchpoints with real-time assignments, prioritizations, and status updates",
+         "Integrations": "Unified various payment gateways, built & integrated advanced search & promotion elements, implemented CRM integration and other 3rd party APIs to deliver a comprehensive solution",
+         "GDPR compliance implementation": "Careful planning and integration of data security standards & protocols ensured adherence to all the GDPR compliance requirements"
+      },
+      "technology_used": [
+         "Hibernate",
+         "Jboss-logo",
+         "Tomcat-Logo",
+         "solr-logo-1",
+         "Java"
+      ],
+      "other_details": {
+         "Capability": "Enterprise Application Services",
+         "Industry": "Retail",
+         "Country": "UK"
+      }
+   },
+   {
+      "title": "Dedicated Healthcare Dashboard Portal",
+      "about": "The unfortunate COVID-19 pandemic led to the need for the development of a data dashboard that depicts control charts, improvement methods, reported deaths by tracking trends in the clinician activity, and patient health across the nation and globally.",
+      "key_features": {
+         "Key Features": "The intuitive dashboard offers real-time information anddata visualizationabout corona pandemic with the latest healthcare data trackers capturing the propagation of COVID-19.",
+         "Real-time visualization of the spread": "The single point dashboard presents various elements like the summary of overall spread, cases by region, with real-time information on recovery, deaths, tests done, new cases and more",
+         "Location comparison of spread \u2013 Region/Country wise": "Apple-to-apple comparison between locations, in terms of how well those places are doing with testing and cases concerning the overall population",
+         "Visual projection of pandemic control": "Graphical projection of corona outbreak based on the location\u2019s historical testing and growth rates, and also known attributes of SARS-CoV-2",
+         "Answers from experts": "Personalized response on COVID-19 related queries in a byte-sized, easy-to-consume format with notification when experts answer them"
+      },
+      "challenges": [
+         "No experience or intelligence on historical data as the virus and spread is new to the world\nUnsure of what parameter and insight is valuable to showcase\nLack of understanding on how get traffic on the dashboard\nUsing the traffic trend to determine what further can be enhanced in terms of features"
+      ],
+      "solutions": {
+         "Solution": "With a structured approach, yet under a strict deadline considering the global situation, the solution was made live. It was with consideration of project elements like \u2013 KPIs development, information source validation & data generation, integration with multiple data sources, and more.",
+         "Statistical model to predict pandemic end": "Estimation and representation of patient impact with region wise breakup of new cases vs. the projected ones predicting possible end of the spread",
+         "Clinical trial data": "Real-time data representation of clinical trials conducted for a variety of medication provisions across categories",
+         "Social integrations": "With the right third-party integrations, the dashboard offers the capability to connect with healthcare experts for answers and share statistics on the pandemic spread through social media",
+         "Fact-checker": "The dashboard helps bust myths by providing users with a graphical display of information and validated content from subject matter experts"
+      },
+      "technology_used": [
+         "next-js-logo",
+         "node js",
+         "aws logo1"
+      ],
+      "other_details": {
+         "Capability": "Digital Services",
+         "Industry": "Healthcare",
+         "Region": "US"
+      }
+   },
+   {
+      "title": "Production Planning & Reporting Software Modernization",
+      "about": "The customer\u2019s existing MS Excel-based reporting system was not able to provide the required insights for production planning, leading to increased costs. They needed a unified solution to effectively monitor machinery, human resources, stocks, and orders.",
+      "key_features": {
+         "Key Features": "The reporting system helped the manufacturing company track and measure production against the set goal, ensuring better planning and optimum plant capability & resource utilization.",
+         "Reporting automation": "Offers interactive & intuitive reports, analytical reports, charts, graphs, etc., for all production process stages, including raw material expenses, labor costs, etc.",
+         "Inventory management": "Visibility into material flow across departments \u2013 from the warehouse to the production line to avoid overstocking & understocking.",
+         "Intuitive dashboard": "Unified platform to effectively track the entire production process, from inventory to production & planning to report, with a process-controlled mechanism.",
+         "Order projection & mapping": "Reporting system helps with demand forecasting by mapping the projected orders and inventory levels."
+      },
+      "challenges": [
+         "Very high production cost due to no insight on materials required and used\nManual MS Excel style reporting process\nLack of business visibility in terms of production, inventory, and sales plan\nDifficulty in resource/labor allocation across the entire production process"
+      ],
+      "solutions": {
+         "Solution": "Our team revamped the Production Planning and Reporting Software to help enable tracking & management of daily production processes, production estimation planning, and streamlining of related processes. The modernization initiative was divided into various phases \u2013 from upgrade & integration for accurate tracking & measurement, to improving the application\u2019s interface.",
+         "System Upgrade": "Our team utilizedMicrosoft.NETto develop a scalable platform for production planning & reporting. We utilized\u00a0 ASP.NET GridView for easy insertion, deletion, sorting, and paging of record items.",
+         "Real-time reporting mechanism": "We developed a custom reporting engine component that generates real-time production reports with a custom drag & drop option in Gantt style or interactive scheduling mode based on KPIs and metrics.",
+         "Planning & integrations": "We designed planning modules to map the client\u2019s production cycle. Our specialist team integrated the developed application with the client\u2019s existing Microsoft Dynamics GP 2010 database. This enabled seamless data extraction & sharing between ERP, accounting, HR, supply chain management & other applications.",
+         "User-friendly interface": "As the client\u2019s staff was used to Microsoft Excel for performing daily tasks, we designed the interface to keep the look & feel intact and ease up the user experience of the modernized software. We utilized .Net Charts and Bootstrap for UI. Our team has an in-depth understanding & exposure to usingChart Helperto export report data into MS Excel or PDF or share it via email."
+      },
+      "technology_used": [
+         "MS-Dyamic-GP-logo",
+         "Microsoft .NET",
+         "MySQL",
+         "logo-stack (1)"
+      ],
+      "other_details": {
+         "Capablity": "Enterprise Software",
+         "Industry": "Manufacturing",
+         "Country": "USA"
+      }
+   },
+   {
+      "title": "HR Management System Modernization",
+      "about": "The VC firm was on the lookout for legacy application modernization of its existing human resource management software (HRMS). It could serve as a single interface between the firm, organizations, employees, HR team & benefit health insurance carriers to streamline employee benefits enrollment and administration tasks.",
+      "key_features": {
+         "Key Features": "The re-engineered human resource management software solution helped streamline the employee benefits and enrollment processes while optimizing related components.",
+         "Centralized system": "Centralized & easy access to Third Party Administrators (TPA), general marketing agencies (Brokers), and employees to streamline benefits enrollment and administration tasks",
+         "Increased transparency": "A single interface between the organization, employees, HR team & benefit carriers",
+         "Smooth user experience": "Facilitates users to enroll in benefits swiftly, view current benefits, and make necessary changes",
+         "Documentation availability": "Reduced documentation complexity by integrating the rule repository platform for review and finalizing"
+      },
+      "challenges": [
+         "Unstructured code base for the legacy application developed 15 years back\nLack of multi-tenancy support\nManual intervention for data transfer\nDifficulty in managing concurrent users on the platform\nPoor app performance\nLack of detailed documentation"
+      ],
+      "solutions": {
+         "Solution": "The unified human resource management system enabled the smooth flow of information with a standard workflow, seamless integration across multiple stakeholders with online reporting, and absolute data security.",
+         "Centralized repository": "Our team worked on the removal of unnecessary sections of legacy code such as comments, dead codes and more. We created a repository that holds source code and extracted rules and analysis reports for future reference",
+         "Integration capability": "Enhanced the HR management application capability by merging it with third-party healthcare platforms to leverage advanced features while maintaining the user\u2019s record accurately",
+         "Application analysis": "Our specialists analyzed the existing system functionality and identified potential issues on the go with their insight-mining expertise. The revamped solution today supports multiple use cases including rule extraction, PII data discovery, defect impact analysis and more"
+      },
+      "technology_used": [
+         ".NET Core",
+         "ASP.NET-Webforms",
+         "MS SQL Server",
+         "ReactJS",
+         "Solr"
+      ],
+      "other_details": {
+         "Capability": "Enterprise Software",
+         "Industry": "Fintech",
+         "Country": "USA"
+      }
+   },
+   {
+      "title": "Multi-channel e-Commerce Management Solution",
+      "about": "With the vision to reach a broader range of consumers, increase brand reach, and boost sales, the India-based customer approached us. We helped in developing a multi-channel e-commerce marketplace solution that would help sellers sell their products both in the Indian and international markets while reaching broader set of buyers.",
+      "key_features": {
+         "Key Features": "Robust SaaS-based solution helps in addressing the critical concerns of merchants by providing information with integration across marketplaces over a single platform",
+         "Dedicated vendor dashboard": "It enables easy vendor registration with a separate admin portal for vendor product catalog enabling them to position better in the marketplace",
+         "Intuitive eCommerce capability": "The adaptable multi-vendor platform enables both start-ups and established organizations to develop their eCommerce capability",
+         "Leverage Global presence": "Facilitate tailored shopping experience with our marketplace solution, andmobile app developmentfor multilingual and multinational audience connect",
+         "Power of analytics": "Advanced analyticsoffer insights into various aspects like vendor-wise sale, merchandise sold/unsold, turnover per category, order & inventory reports, etc. which helps in decision making"
+      },
+      "challenges": [
+         "Incapability of handling concurrency and parallel queries on large data sets\nDeprived of custom reports across inventory management, order processing, CRM and more\nPoor tracking of product listing, product reviews and ratings\nWith no integration capability, lack of pulling data from 3rd party product listing platforms"
+      ],
+      "solutions": {
+         "Solution": "We created an intuitive solution that helped automate the major chunk of the process of setting up accounts on various marketplaces to getting the products delivered to the customer. The instinctive dashboard helps sellers to host their products and listing on multi-channel marketplace platforms like Amazon, Flipkart, SnapDeal, and more.",
+         "Inventory management": "UtilizedAWSto offer real-time data for shipping & returns and inventory over a centralized module. It allows easy viewing, editing, and managing customer orders from multiple sales channels. Also, there is automatic sync, demand forecasting, and end-to-end purchase management for regular stock replenishment",
+         "Vendor management": "Swift maintenance of product data, including inventory, purchase orders, product catalogs and more for buyers & sellers, leading to strong vendor relationships with standalone dashboards to assess varied parameters",
+         "Order processing": "The tight integration with all leading marketplace platforms supports smooth processing of orders from multiple channels and also automates many administrative tasks, including invoice printing, bulk processing, managing live orders, and more",
+         "Robust CRM": "The multi-channel CRM module enables the creation of business-specific workflows, launch & supervision of efficient marketing campaigns ensuring apt brand strategy & consulting approach to increase sales"
+      },
+      "technology_used": [
+         "Java",
+         "spring",
+         "Hibernate",
+         "PostgreSQL",
+         "Angular",
+         "AWS",
+         "Tableau"
+      ],
+      "other_details": {
+         "Capability": "Cloud",
+         "Industry": "Retail",
+         "Country": "India"
+      }
+   }
+]
